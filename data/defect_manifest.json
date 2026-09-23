@@ -1,0 +1,8019 @@
+[
+  {
+    "image_id": "NDM_M1 (1)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (1).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (1)_defect.png",
+    "bboxes_xywh": [
+      [
+        552,
+        1077,
+        18,
+        16
+      ],
+      [
+        633,
+        880,
+        201,
+        81
+      ],
+      [
+        837,
+        661,
+        58,
+        38
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (10)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (10).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (10)_defect.png",
+    "bboxes_xywh": [
+      [
+        816,
+        177,
+        151,
+        154
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (100)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (100).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (100)_defect.png",
+    "bboxes_xywh": [
+      [
+        1099,
+        316,
+        57,
+        37
+      ],
+      [
+        845,
+        258,
+        180,
+        100
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (101)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (101).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (101)_defect.png",
+    "bboxes_xywh": [
+      [
+        1734,
+        877,
+        47,
+        183
+      ],
+      [
+        1614,
+        739,
+        119,
+        121
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (102)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (102).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (102)_defect.png",
+    "bboxes_xywh": [
+      [
+        1021,
+        1913,
+        10,
+        7
+      ],
+      [
+        742,
+        295,
+        117,
+        117
+      ],
+      [
+        878,
+        244,
+        169,
+        52
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (103)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (103).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (103)_defect.png",
+    "bboxes_xywh": [
+      [
+        417,
+        1179,
+        7,
+        10
+      ],
+      [
+        672,
+        1147,
+        47,
+        48
+      ],
+      [
+        1634,
+        812,
+        11,
+        17
+      ],
+      [
+        961,
+        785,
+        18,
+        24
+      ],
+      [
+        422,
+        755,
+        81,
+        56
+      ],
+      [
+        1590,
+        601,
+        9,
+        8
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (104)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (104).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (104)_defect.png",
+    "bboxes_xywh": [
+      [
+        1177,
+        1541,
+        12,
+        8
+      ],
+      [
+        707,
+        1359,
+        104,
+        183
+      ],
+      [
+        1153,
+        1245,
+        36,
+        46
+      ],
+      [
+        786,
+        983,
+        25,
+        20
+      ],
+      [
+        1319,
+        601,
+        17,
+        21
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (105)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (105).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (105)_defect.png",
+    "bboxes_xywh": [
+      [
+        1314,
+        1125,
+        61,
+        45
+      ],
+      [
+        1271,
+        892,
+        45,
+        53
+      ],
+      [
+        1524,
+        679,
+        55,
+        62
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (106)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (106).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (106)_defect.png",
+    "bboxes_xywh": [
+      [
+        891,
+        611,
+        53,
+        52
+      ],
+      [
+        1121,
+        553,
+        50,
+        64
+      ],
+      [
+        685,
+        351,
+        57,
+        63
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (107)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (107).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (107)_defect.png",
+    "bboxes_xywh": [
+      [
+        1173,
+        488,
+        501,
+        198
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (108)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (108).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (108)_defect.png",
+    "bboxes_xywh": [
+      [
+        490,
+        291,
+        193,
+        413
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (109)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (109).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (109)_defect.png",
+    "bboxes_xywh": [
+      [
+        1437,
+        754,
+        289,
+        571
+      ],
+      [
+        1474,
+        615,
+        8,
+        8
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (11)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (11).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (11)_defect.png",
+    "bboxes_xywh": [
+      [
+        810,
+        1230,
+        8,
+        5
+      ],
+      [
+        844,
+        1226,
+        11,
+        8
+      ],
+      [
+        1445,
+        638,
+        16,
+        11
+      ],
+      [
+        634,
+        610,
+        15,
+        8
+      ],
+      [
+        1348,
+        607,
+        10,
+        10
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (110)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (110).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (110)_defect.png",
+    "bboxes_xywh": [
+      [
+        1183,
+        1783,
+        7,
+        10
+      ],
+      [
+        615,
+        447,
+        10,
+        8
+      ],
+      [
+        763,
+        200,
+        518,
+        236
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (111)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (111).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (111)_defect.png",
+    "bboxes_xywh": [
+      [
+        1352,
+        1360,
+        8,
+        37
+      ],
+      [
+        1345,
+        1314,
+        8,
+        31
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (112)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (112).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (112)_defect.png",
+    "bboxes_xywh": [
+      [
+        1314,
+        753,
+        31,
+        9
+      ],
+      [
+        1359,
+        744,
+        38,
+        11
+      ],
+      [
+        1410,
+        731,
+        22,
+        9
+      ],
+      [
+        1363,
+        729,
+        9,
+        14
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (113)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (113).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (113)_defect.png",
+    "bboxes_xywh": [
+      [
+        1569,
+        1344,
+        15,
+        12
+      ],
+      [
+        1134,
+        1331,
+        39,
+        37
+      ],
+      [
+        1851,
+        1052,
+        16,
+        35
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (114)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (114).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (114)_defect.png",
+    "bboxes_xywh": [
+      [
+        1352,
+        924,
+        10,
+        11
+      ],
+      [
+        1332,
+        899,
+        20,
+        20
+      ],
+      [
+        1343,
+        483,
+        13,
+        15
+      ],
+      [
+        1053,
+        204,
+        37,
+        16
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (115)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (115).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (115)_defect.png",
+    "bboxes_xywh": [
+      [
+        1645,
+        1262,
+        11,
+        17
+      ],
+      [
+        1598,
+        1255,
+        30,
+        18
+      ],
+      [
+        97,
+        1071,
+        6,
+        9
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (116)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (116).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (116)_defect.png",
+    "bboxes_xywh": [
+      [
+        1071,
+        1969,
+        10,
+        7
+      ],
+      [
+        1256,
+        446,
+        17,
+        28
+      ],
+      [
+        1262,
+        418,
+        17,
+        9
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (117)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (117).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (117)_defect.png",
+    "bboxes_xywh": [
+      [
+        839,
+        1388,
+        59,
+        22
+      ],
+      [
+        1402,
+        1368,
+        118,
+        44
+      ],
+      [
+        1400,
+        914,
+        27,
+        25
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (118)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (118).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (118)_defect.png",
+    "bboxes_xywh": [
+      [
+        915,
+        616,
+        28,
+        19
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (119)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (119).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (119)_defect.png",
+    "bboxes_xywh": [
+      [
+        723,
+        1464,
+        9,
+        7
+      ],
+      [
+        699,
+        1463,
+        16,
+        7
+      ],
+      [
+        640,
+        1451,
+        29,
+        14
+      ],
+      [
+        730,
+        1450,
+        21,
+        8
+      ],
+      [
+        673,
+        1443,
+        20,
+        10
+      ],
+      [
+        701,
+        1434,
+        11,
+        14
+      ],
+      [
+        754,
+        1430,
+        6,
+        6
+      ],
+      [
+        728,
+        1427,
+        9,
+        8
+      ],
+      [
+        649,
+        1423,
+        15,
+        11
+      ],
+      [
+        740,
+        1410,
+        7,
+        6
+      ],
+      [
+        683,
+        1400,
+        21,
+        24
+      ],
+      [
+        637,
+        1393,
+        40,
+        37
+      ],
+      [
+        1414,
+        958,
+        35,
+        33
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (12)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (12).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (12)_defect.png",
+    "bboxes_xywh": [
+      [
+        611,
+        1151,
+        5,
+        14
+      ],
+      [
+        1231,
+        984,
+        6,
+        11
+      ],
+      [
+        608,
+        442,
+        8,
+        10
+      ],
+      [
+        626,
+        376,
+        9,
+        7
+      ],
+      [
+        638,
+        343,
+        11,
+        14
+      ],
+      [
+        1048,
+        291,
+        16,
+        188
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (120)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (120).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (120)_defect.png",
+    "bboxes_xywh": [
+      [
+        1388,
+        1275,
+        93,
+        133
+      ],
+      [
+        961,
+        593,
+        33,
+        32
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (121)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (121).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (121)_defect.png",
+    "bboxes_xywh": [
+      [
+        1736,
+        1056,
+        23,
+        24
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (122)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (122).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (122)_defect.png",
+    "bboxes_xywh": [
+      [
+        1055,
+        321,
+        26,
+        19
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (123)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (123).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (123)_defect.png",
+    "bboxes_xywh": [
+      [
+        1136,
+        1249,
+        28,
+        19
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (124)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (124).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (124)_defect.png",
+    "bboxes_xywh": [
+      [
+        1183,
+        1252,
+        22,
+        20
+      ],
+      [
+        874,
+        1251,
+        17,
+        17
+      ],
+      [
+        1240,
+        684,
+        30,
+        43
+      ],
+      [
+        1088,
+        420,
+        19,
+        20
+      ],
+      [
+        998,
+        401,
+        28,
+        45
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (125)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (125).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (125)_defect.png",
+    "bboxes_xywh": [
+      [
+        1658,
+        766,
+        74,
+        94
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (126)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (126).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (126)_defect.png",
+    "bboxes_xywh": [
+      [
+        925,
+        1176,
+        18,
+        17
+      ],
+      [
+        564,
+        782,
+        23,
+        16
+      ],
+      [
+        684,
+        360,
+        18,
+        24
+      ],
+      [
+        733,
+        354,
+        13,
+        15
+      ],
+      [
+        965,
+        196,
+        17,
+        15
+      ],
+      [
+        775,
+        171,
+        84,
+        61
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (127)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (127).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (127)_defect.png",
+    "bboxes_xywh": [
+      [
+        933,
+        1116,
+        24,
+        24
+      ],
+      [
+        1651,
+        908,
+        19,
+        42
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (128)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (128).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (128)_defect.png",
+    "bboxes_xywh": [
+      [
+        1112,
+        974,
+        33,
+        25
+      ],
+      [
+        1303,
+        807,
+        13,
+        22
+      ],
+      [
+        909,
+        263,
+        45,
+        21
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (129)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (129).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (129)_defect.png",
+    "bboxes_xywh": [
+      [
+        1224,
+        1124,
+        19,
+        18
+      ],
+      [
+        1552,
+        1087,
+        26,
+        27
+      ],
+      [
+        1281,
+        1039,
+        12,
+        11
+      ],
+      [
+        94,
+        1036,
+        97,
+        71
+      ],
+      [
+        1537,
+        942,
+        10,
+        12
+      ],
+      [
+        1234,
+        629,
+        31,
+        22
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (13)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (13).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (13)_defect.png",
+    "bboxes_xywh": [
+      [
+        1288,
+        900,
+        14,
+        15
+      ],
+      [
+        1366,
+        691,
+        10,
+        11
+      ],
+      [
+        1377,
+        619,
+        6,
+        6
+      ],
+      [
+        1145,
+        551,
+        24,
+        14
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (130)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (130).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (130)_defect.png",
+    "bboxes_xywh": [
+      [
+        1036,
+        1718,
+        72,
+        96
+      ],
+      [
+        1125,
+        662,
+        19,
+        20
+      ],
+      [
+        628,
+        647,
+        22,
+        29
+      ],
+      [
+        942,
+        362,
+        12,
+        9
+      ],
+      [
+        1087,
+        331,
+        28,
+        25
+      ],
+      [
+        789,
+        231,
+        100,
+        44
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (131)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (131).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (131)_defect.png",
+    "bboxes_xywh": [
+      [
+        1209,
+        1379,
+        17,
+        22
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (132)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (132).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (132)_defect.png",
+    "bboxes_xywh": [
+      [
+        1379,
+        802,
+        17,
+        21
+      ],
+      [
+        1089,
+        769,
+        16,
+        22
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (133)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (133).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (133)_defect.png",
+    "bboxes_xywh": [
+      [
+        1742,
+        1100,
+        22,
+        24
+      ],
+      [
+        994,
+        724,
+        18,
+        9
+      ],
+      [
+        1160,
+        659,
+        11,
+        8
+      ],
+      [
+        1136,
+        593,
+        23,
+        20
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (134)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (134).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (134)_defect.png",
+    "bboxes_xywh": [
+      [
+        724,
+        1051,
+        6,
+        10
+      ],
+      [
+        597,
+        901,
+        17,
+        19
+      ],
+      [
+        659,
+        892,
+        6,
+        10
+      ],
+      [
+        1100,
+        296,
+        26,
+        23
+      ],
+      [
+        826,
+        242,
+        43,
+        33
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (135)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (135).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (135)_defect.png",
+    "bboxes_xywh": [
+      [
+        1458,
+        1223,
+        399,
+        207
+      ],
+      [
+        1888,
+        1123,
+        11,
+        32
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (136)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (136).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (136)_defect.png",
+    "bboxes_xywh": [
+      [
+        1173,
+        836,
+        9,
+        7
+      ],
+      [
+        1461,
+        818,
+        21,
+        64
+      ],
+      [
+        1154,
+        205,
+        258,
+        444
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (137)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (137).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (137)_defect.png",
+    "bboxes_xywh": [
+      [
+        1201,
+        1300,
+        26,
+        18
+      ],
+      [
+        1368,
+        1200,
+        5,
+        6
+      ],
+      [
+        1306,
+        1166,
+        51,
+        51
+      ],
+      [
+        1749,
+        770,
+        20,
+        22
+      ],
+      [
+        1794,
+        759,
+        102,
+        164
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (138)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (138).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (138)_defect.png",
+    "bboxes_xywh": [
+      [
+        1300,
+        824,
+        17,
+        22
+      ],
+      [
+        1165,
+        690,
+        51,
+        49
+      ],
+      [
+        773,
+        280,
+        17,
+        17
+      ],
+      [
+        780,
+        149,
+        130,
+        82
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (139)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (139).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (139)_defect.png",
+    "bboxes_xywh": [
+      [
+        1822,
+        1091,
+        37,
+        16
+      ],
+      [
+        1842,
+        933,
+        113,
+        223
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (14)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (14).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (14)_defect.png",
+    "bboxes_xywh": [
+      [
+        902,
+        517,
+        12,
+        13
+      ],
+      [
+        690,
+        441,
+        12,
+        15
+      ],
+      [
+        618,
+        433,
+        8,
+        8
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (140)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (140).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (140)_defect.png",
+    "bboxes_xywh": [
+      [
+        1111,
+        119,
+        42,
+        55
+      ],
+      [
+        1027,
+        62,
+        122,
+        68
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (141)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (141).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (141)_defect.png",
+    "bboxes_xywh": [
+      [
+        1873,
+        743,
+        95,
+        148
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (142)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (142).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (142)_defect.png",
+    "bboxes_xywh": [
+      [
+        829,
+        105,
+        64,
+        37
+      ],
+      [
+        744,
+        58,
+        108,
+        94
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (143)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (143).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (143)_defect.png",
+    "bboxes_xywh": [
+      [
+        1695,
+        1184,
+        47,
+        50
+      ],
+      [
+        1800,
+        1128,
+        17,
+        25
+      ],
+      [
+        1766,
+        985,
+        14,
+        12
+      ],
+      [
+        1789,
+        927,
+        20,
+        40
+      ],
+      [
+        1681,
+        821,
+        20,
+        17
+      ],
+      [
+        1425,
+        613,
+        19,
+        14
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (144)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (144).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (144)_defect.png",
+    "bboxes_xywh": [
+      [
+        1406,
+        1129,
+        11,
+        9
+      ],
+      [
+        608,
+        567,
+        16,
+        20
+      ],
+      [
+        1079,
+        430,
+        12,
+        9
+      ],
+      [
+        822,
+        316,
+        19,
+        12
+      ],
+      [
+        1185,
+        272,
+        48,
+        45
+      ],
+      [
+        987,
+        236,
+        17,
+        13
+      ],
+      [
+        925,
+        206,
+        40,
+        16
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (145)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (145).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (145)_defect.png",
+    "bboxes_xywh": [
+      [
+        1642,
+        1214,
+        36,
+        33
+      ],
+      [
+        1675,
+        1148,
+        40,
+        29
+      ],
+      [
+        1730,
+        1143,
+        11,
+        11
+      ],
+      [
+        1477,
+        913,
+        13,
+        18
+      ],
+      [
+        1733,
+        781,
+        111,
+        182
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (146)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (146).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (146)_defect.png",
+    "bboxes_xywh": [
+      [
+        799,
+        661,
+        9,
+        12
+      ],
+      [
+        1136,
+        619,
+        22,
+        21
+      ],
+      [
+        917,
+        533,
+        16,
+        14
+      ],
+      [
+        866,
+        517,
+        16,
+        13
+      ],
+      [
+        938,
+        516,
+        6,
+        6
+      ],
+      [
+        1219,
+        347,
+        27,
+        37
+      ],
+      [
+        1143,
+        300,
+        32,
+        45
+      ],
+      [
+        789,
+        175,
+        183,
+        115
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (147)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (147).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (147)_defect.png",
+    "bboxes_xywh": [
+      [
+        1660,
+        789,
+        17,
+        19
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (148)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (148).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (148)_defect.png",
+    "bboxes_xywh": [
+      [
+        759,
+        1691,
+        9,
+        11
+      ],
+      [
+        1151,
+        1649,
+        26,
+        18
+      ],
+      [
+        1315,
+        647,
+        11,
+        17
+      ],
+      [
+        906,
+        578,
+        9,
+        10
+      ],
+      [
+        795,
+        310,
+        13,
+        17
+      ],
+      [
+        855,
+        259,
+        31,
+        29
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (149)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (149).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (149)_defect.png",
+    "bboxes_xywh": [
+      [
+        1378,
+        960,
+        23,
+        30
+      ],
+      [
+        1520,
+        893,
+        8,
+        8
+      ],
+      [
+        1042,
+        808,
+        15,
+        10
+      ],
+      [
+        1243,
+        694,
+        9,
+        13
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (15)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (15).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (15)_defect.png",
+    "bboxes_xywh": [
+      [
+        1221,
+        1162,
+        16,
+        13
+      ],
+      [
+        1644,
+        1091,
+        25,
+        18
+      ],
+      [
+        1654,
+        1035,
+        28,
+        21
+      ],
+      [
+        1695,
+        820,
+        11,
+        40
+      ],
+      [
+        1621,
+        715,
+        5,
+        14
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (150)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (150).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (150)_defect.png",
+    "bboxes_xywh": [
+      [
+        963,
+        506,
+        29,
+        19
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (151)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (151).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (151)_defect.png",
+    "bboxes_xywh": [
+      [
+        1632,
+        1232,
+        17,
+        19
+      ],
+      [
+        1722,
+        904,
+        17,
+        28
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (152)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (152).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (152)_defect.png",
+    "bboxes_xywh": [
+      [
+        898,
+        1281,
+        9,
+        15
+      ],
+      [
+        1231,
+        303,
+        20,
+        21
+      ],
+      [
+        904,
+        215,
+        29,
+        20
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (153)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (153).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (153)_defect.png",
+    "bboxes_xywh": [
+      [
+        119,
+        1232,
+        24,
+        18
+      ],
+      [
+        1230,
+        625,
+        25,
+        19
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (154)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (154).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (154)_defect.png",
+    "bboxes_xywh": [
+      [
+        1235,
+        1793,
+        15,
+        24
+      ],
+      [
+        627,
+        679,
+        21,
+        32
+      ],
+      [
+        1229,
+        412,
+        9,
+        11
+      ],
+      [
+        880,
+        377,
+        6,
+        8
+      ],
+      [
+        1003,
+        154,
+        10,
+        8
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (155)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (155).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (155)_defect.png",
+    "bboxes_xywh": [
+      [
+        239,
+        1181,
+        24,
+        29
+      ],
+      [
+        1549,
+        948,
+        19,
+        19
+      ],
+      [
+        1682,
+        834,
+        69,
+        142
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (156)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (156).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (156)_defect.png",
+    "bboxes_xywh": [
+      [
+        1377,
+        1076,
+        9,
+        12
+      ],
+      [
+        1031,
+        283,
+        79,
+        61
+      ],
+      [
+        831,
+        249,
+        143,
+        71
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (157)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (157).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (157)_defect.png",
+    "bboxes_xywh": [
+      [
+        1429,
+        1086,
+        14,
+        15
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (158)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (158).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (158)_defect.png",
+    "bboxes_xywh": [
+      [
+        1081,
+        454,
+        17,
+        16
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (159)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (159).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (159)_defect.png",
+    "bboxes_xywh": [
+      [
+        219,
+        734,
+        21,
+        12
+      ],
+      [
+        1315,
+        706,
+        19,
+        27
+      ],
+      [
+        1334,
+        677,
+        19,
+        12
+      ],
+      [
+        1425,
+        673,
+        14,
+        12
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (16)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (16).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (16)_defect.png",
+    "bboxes_xywh": [
+      [
+        1160,
+        707,
+        16,
+        16
+      ],
+      [
+        718,
+        314,
+        10,
+        9
+      ],
+      [
+        1082,
+        267,
+        35,
+        38
+      ],
+      [
+        1036,
+        264,
+        26,
+        26
+      ],
+      [
+        822,
+        240,
+        28,
+        12
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (160)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (160).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (160)_defect.png",
+    "bboxes_xywh": [
+      [
+        735,
+        1655,
+        8,
+        13
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (161)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (161).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (161)_defect.png",
+    "bboxes_xywh": [
+      [
+        1228,
+        1353,
+        82,
+        18
+      ],
+      [
+        1339,
+        1208,
+        25,
+        35
+      ],
+      [
+        1615,
+        1089,
+        13,
+        30
+      ],
+      [
+        1401,
+        1066,
+        36,
+        30
+      ],
+      [
+        522,
+        701,
+        231,
+        184
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (162)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (162).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (162)_defect.png",
+    "bboxes_xywh": [
+      [
+        726,
+        1419,
+        13,
+        7
+      ],
+      [
+        765,
+        1407,
+        8,
+        6
+      ],
+      [
+        705,
+        1405,
+        18,
+        10
+      ],
+      [
+        753,
+        1364,
+        14,
+        11
+      ],
+      [
+        864,
+        1314,
+        8,
+        9
+      ],
+      [
+        729,
+        1196,
+        141,
+        118
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (163)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (163).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (163)_defect.png",
+    "bboxes_xywh": [
+      [
+        1462,
+        1175,
+        28,
+        28
+      ],
+      [
+        87,
+        888,
+        681,
+        288
+      ],
+      [
+        1343,
+        718,
+        18,
+        20
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (164)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (164).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (164)_defect.png",
+    "bboxes_xywh": [
+      [
+        898,
+        1344,
+        261,
+        593
+      ],
+      [
+        1177,
+        522,
+        21,
+        30
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (165)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (165).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (165)_defect.png",
+    "bboxes_xywh": [
+      [
+        1217,
+        1347,
+        16,
+        8
+      ],
+      [
+        1593,
+        1031,
+        11,
+        9
+      ],
+      [
+        1480,
+        969,
+        15,
+        14
+      ],
+      [
+        1551,
+        923,
+        7,
+        9
+      ],
+      [
+        919,
+        706,
+        22,
+        15
+      ],
+      [
+        1247,
+        655,
+        35,
+        23
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (166)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (166).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (166)_defect.png",
+    "bboxes_xywh": [
+      [
+        707,
+        1018,
+        18,
+        22
+      ],
+      [
+        566,
+        931,
+        8,
+        37
+      ],
+      [
+        1346,
+        711,
+        12,
+        23
+      ],
+      [
+        657,
+        669,
+        19,
+        27
+      ],
+      [
+        926,
+        395,
+        6,
+        13
+      ],
+      [
+        1028,
+        350,
+        11,
+        15
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (167)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (167).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (167)_defect.png",
+    "bboxes_xywh": [
+      [
+        1521,
+        980,
+        20,
+        15
+      ],
+      [
+        1614,
+        971,
+        19,
+        17
+      ],
+      [
+        1501,
+        913,
+        50,
+        41
+      ],
+      [
+        1585,
+        904,
+        16,
+        14
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (168)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (168).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (168)_defect.png",
+    "bboxes_xywh": [
+      [
+        983,
+        393,
+        11,
+        13
+      ],
+      [
+        913,
+        393,
+        37,
+        41
+      ],
+      [
+        906,
+        333,
+        8,
+        13
+      ],
+      [
+        976,
+        303,
+        9,
+        9
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (169)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (169).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (169)_defect.png",
+    "bboxes_xywh": [
+      [
+        281,
+        1183,
+        46,
+        28
+      ],
+      [
+        972,
+        1016,
+        35,
+        39
+      ],
+      [
+        1645,
+        942,
+        14,
+        20
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (17)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (17).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (17)_defect.png",
+    "bboxes_xywh": [
+      [
+        436,
+        1227,
+        17,
+        12
+      ],
+      [
+        1200,
+        1193,
+        9,
+        8
+      ],
+      [
+        1153,
+        1181,
+        7,
+        6
+      ],
+      [
+        1211,
+        1147,
+        7,
+        5
+      ],
+      [
+        1029,
+        767,
+        21,
+        15
+      ],
+      [
+        1595,
+        749,
+        37,
+        39
+      ],
+      [
+        1641,
+        707,
+        16,
+        19
+      ],
+      [
+        1612,
+        707,
+        17,
+        15
+      ],
+      [
+        1606,
+        684,
+        21,
+        22
+      ],
+      [
+        1594,
+        672,
+        7,
+        5
+      ],
+      [
+        1590,
+        660,
+        5,
+        5
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (170)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (170).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (170)_defect.png",
+    "bboxes_xywh": [
+      [
+        1107,
+        1619,
+        7,
+        10
+      ],
+      [
+        1182,
+        1544,
+        23,
+        53
+      ],
+      [
+        1019,
+        868,
+        35,
+        32
+      ],
+      [
+        944,
+        215,
+        20,
+        14
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (171)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (171).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (171)_defect.png",
+    "bboxes_xywh": [
+      [
+        1604,
+        1295,
+        27,
+        30
+      ],
+      [
+        1607,
+        1185,
+        30,
+        27
+      ],
+      [
+        1824,
+        1131,
+        20,
+        27
+      ],
+      [
+        271,
+        920,
+        7,
+        8
+      ],
+      [
+        1156,
+        918,
+        6,
+        10
+      ],
+      [
+        1180,
+        679,
+        11,
+        11
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (172)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (172).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (172)_defect.png",
+    "bboxes_xywh": [
+      [
+        920,
+        958,
+        8,
+        7
+      ],
+      [
+        1298,
+        496,
+        23,
+        22
+      ],
+      [
+        1187,
+        484,
+        26,
+        27
+      ],
+      [
+        1129,
+        278,
+        30,
+        19
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (173)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (173).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (173)_defect.png",
+    "bboxes_xywh": [
+      [
+        249,
+        812,
+        94,
+        83
+      ],
+      [
+        495,
+        675,
+        133,
+        57
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (174)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (174).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (174)_defect.png",
+    "bboxes_xywh": [
+      [
+        810,
+        1706,
+        89,
+        89
+      ],
+      [
+        671,
+        1415,
+        59,
+        132
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (175)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (175).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (175)_defect.png",
+    "bboxes_xywh": [
+      [
+        1265,
+        1091,
+        51,
+        247
+      ],
+      [
+        600,
+        1014,
+        9,
+        10
+      ],
+      [
+        1366,
+        989,
+        6,
+        11
+      ],
+      [
+        1607,
+        796,
+        114,
+        332
+      ],
+      [
+        1372,
+        607,
+        91,
+        56
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (176)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (176).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (176)_defect.png",
+    "bboxes_xywh": [
+      [
+        1014,
+        1317,
+        9,
+        12
+      ],
+      [
+        1218,
+        645,
+        21,
+        17
+      ],
+      [
+        1205,
+        608,
+        134,
+        31
+      ],
+      [
+        990,
+        553,
+        9,
+        12
+      ],
+      [
+        613,
+        545,
+        10,
+        10
+      ],
+      [
+        695,
+        535,
+        43,
+        31
+      ],
+      [
+        609,
+        469,
+        51,
+        26
+      ],
+      [
+        832,
+        215,
+        377,
+        126
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (177)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (177).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (177)_defect.png",
+    "bboxes_xywh": [
+      [
+        1372,
+        1172,
+        86,
+        86
+      ],
+      [
+        1611,
+        1063,
+        11,
+        13
+      ],
+      [
+        1443,
+        1051,
+        6,
+        8
+      ],
+      [
+        1611,
+        680,
+        115,
+        369
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (178)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (178).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (178)_defect.png",
+    "bboxes_xywh": [
+      [
+        1041,
+        475,
+        216,
+        88
+      ],
+      [
+        1061,
+        317,
+        13,
+        9
+      ],
+      [
+        669,
+        291,
+        30,
+        50
+      ],
+      [
+        737,
+        213,
+        304,
+        54
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (179)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (179).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (179)_defect.png",
+    "bboxes_xywh": [
+      [
+        1155,
+        1361,
+        18,
+        20
+      ],
+      [
+        1556,
+        1275,
+        27,
+        16
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (18)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (18).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (18)_defect.png",
+    "bboxes_xywh": [
+      [
+        771,
+        857,
+        9,
+        9
+      ],
+      [
+        1195,
+        694,
+        6,
+        5
+      ],
+      [
+        1148,
+        686,
+        5,
+        4
+      ],
+      [
+        658,
+        305,
+        7,
+        7
+      ],
+      [
+        672,
+        300,
+        5,
+        6
+      ],
+      [
+        682,
+        273,
+        18,
+        16
+      ],
+      [
+        708,
+        271,
+        16,
+        19
+      ],
+      [
+        749,
+        269,
+        39,
+        37
+      ],
+      [
+        709,
+        245,
+        14,
+        15
+      ],
+      [
+        885,
+        205,
+        7,
+        5
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (180)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (180).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (180)_defect.png",
+    "bboxes_xywh": [
+      [
+        1369,
+        860,
+        15,
+        20
+      ],
+      [
+        1272,
+        439,
+        13,
+        36
+      ],
+      [
+        833,
+        314,
+        20,
+        11
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (181)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (181).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (181)_defect.png",
+    "bboxes_xywh": [
+      [
+        948,
+        1374,
+        143,
+        57
+      ],
+      [
+        1178,
+        1098,
+        210,
+        300
+      ],
+      [
+        1637,
+        1038,
+        24,
+        22
+      ],
+      [
+        1678,
+        971,
+        29,
+        53
+      ],
+      [
+        1768,
+        882,
+        40,
+        55
+      ],
+      [
+        1565,
+        690,
+        80,
+        128
+      ],
+      [
+        1612,
+        626,
+        22,
+        18
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (182)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (182).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (182)_defect.png",
+    "bboxes_xywh": [
+      [
+        1136,
+        626,
+        254,
+        202
+      ],
+      [
+        686,
+        361,
+        124,
+        80
+      ],
+      [
+        625,
+        361,
+        24,
+        69
+      ],
+      [
+        882,
+        191,
+        188,
+        179
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (183)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (183).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (183)_defect.png",
+    "bboxes_xywh": [
+      [
+        1470,
+        1161,
+        43,
+        31
+      ],
+      [
+        1493,
+        747,
+        247,
+        492
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (184)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (184).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (184)_defect.png",
+    "bboxes_xywh": [
+      [
+        1162,
+        306,
+        35,
+        39
+      ],
+      [
+        986,
+        84,
+        261,
+        263
+      ],
+      [
+        791,
+        83,
+        133,
+        28
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (185)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (185).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (185)_defect.png",
+    "bboxes_xywh": [
+      [
+        1191,
+        1291,
+        28,
+        30
+      ],
+      [
+        586,
+        1109,
+        85,
+        47
+      ],
+      [
+        1293,
+        920,
+        25,
+        22
+      ],
+      [
+        1554,
+        727,
+        30,
+        23
+      ],
+      [
+        930,
+        662,
+        17,
+        17
+      ],
+      [
+        1477,
+        535,
+        227,
+        167
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (186)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (186).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (186)_defect.png",
+    "bboxes_xywh": [
+      [
+        1107,
+        1135,
+        46,
+        79
+      ],
+      [
+        1303,
+        590,
+        13,
+        21
+      ],
+      [
+        720,
+        228,
+        32,
+        23
+      ],
+      [
+        637,
+        177,
+        16,
+        26
+      ],
+      [
+        538,
+        82,
+        161,
+        243
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (187)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (187).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (187)_defect.png",
+    "bboxes_xywh": [
+      [
+        1716,
+        1076,
+        107,
+        209
+      ],
+      [
+        834,
+        829,
+        18,
+        20
+      ],
+      [
+        959,
+        745,
+        15,
+        17
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (188)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (188).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (188)_defect.png",
+    "bboxes_xywh": [
+      [
+        830,
+        1210,
+        22,
+        19
+      ],
+      [
+        748,
+        1093,
+        11,
+        13
+      ],
+      [
+        1037,
+        248,
+        278,
+        96
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (189)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (189).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (189)_defect.png",
+    "bboxes_xywh": [
+      [
+        1212,
+        1186,
+        31,
+        35
+      ],
+      [
+        173,
+        1085,
+        31,
+        24
+      ],
+      [
+        827,
+        825,
+        26,
+        25
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (19)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (19).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (19)_defect.png",
+    "bboxes_xywh": [
+      [
+        1173,
+        1404,
+        14,
+        11
+      ],
+      [
+        1191,
+        1353,
+        28,
+        20
+      ],
+      [
+        1805,
+        1211,
+        8,
+        9
+      ],
+      [
+        1420,
+        1108,
+        12,
+        14
+      ],
+      [
+        360,
+        1054,
+        6,
+        6
+      ],
+      [
+        280,
+        960,
+        12,
+        10
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (190)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (190).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (190)_defect.png",
+    "bboxes_xywh": [
+      [
+        702,
+        811,
+        50,
+        26
+      ],
+      [
+        1178,
+        652,
+        46,
+        41
+      ],
+      [
+        1130,
+        401,
+        10,
+        16
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (191)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (191).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (191)_defect.png",
+    "bboxes_xywh": [
+      [
+        1781,
+        1159,
+        10,
+        22
+      ],
+      [
+        1322,
+        1073,
+        11,
+        14
+      ],
+      [
+        1087,
+        1025,
+        24,
+        49
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (192)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (192).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (192)_defect.png",
+    "bboxes_xywh": [
+      [
+        1021,
+        964,
+        53,
+        48
+      ],
+      [
+        1063,
+        728,
+        45,
+        57
+      ],
+      [
+        1164,
+        301,
+        15,
+        11
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (193)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (193).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (193)_defect.png",
+    "bboxes_xywh": [
+      [
+        1207,
+        1466,
+        11,
+        7
+      ],
+      [
+        1498,
+        1433,
+        35,
+        24
+      ],
+      [
+        900,
+        1378,
+        25,
+        30
+      ],
+      [
+        1199,
+        1376,
+        17,
+        14
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (194)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (194).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (194)_defect.png",
+    "bboxes_xywh": [
+      [
+        1381,
+        1135,
+        24,
+        29
+      ],
+      [
+        1369,
+        843,
+        21,
+        20
+      ],
+      [
+        1025,
+        174,
+        44,
+        23
+      ],
+      [
+        970,
+        171,
+        41,
+        32
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (195)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (195).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (195)_defect.png",
+    "bboxes_xywh": [
+      [
+        531,
+        1422,
+        194,
+        41
+      ],
+      [
+        1400,
+        1381,
+        84,
+        49
+      ],
+      [
+        1103,
+        1185,
+        32,
+        23
+      ],
+      [
+        1326,
+        1016,
+        42,
+        38
+      ],
+      [
+        1777,
+        880,
+        112,
+        318
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (196)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (196).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (196)_defect.png",
+    "bboxes_xywh": [
+      [
+        1426,
+        1550,
+        23,
+        28
+      ],
+      [
+        1435,
+        1402,
+        9,
+        21
+      ],
+      [
+        1184,
+        976,
+        21,
+        19
+      ],
+      [
+        1021,
+        743,
+        29,
+        36
+      ],
+      [
+        1385,
+        637,
+        45,
+        74
+      ],
+      [
+        866,
+        226,
+        317,
+        93
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (197)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (197).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (197)_defect.png",
+    "bboxes_xywh": [
+      [
+        470,
+        931,
+        9,
+        13
+      ],
+      [
+        1628,
+        786,
+        26,
+        10
+      ],
+      [
+        1700,
+        676,
+        135,
+        216
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (198)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (198).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (198)_defect.png",
+    "bboxes_xywh": [
+      [
+        923,
+        1507,
+        21,
+        19
+      ],
+      [
+        655,
+        157,
+        234,
+        166
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (199)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (199).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (199)_defect.png",
+    "bboxes_xywh": [
+      [
+        1117,
+        1375,
+        160,
+        48
+      ],
+      [
+        600,
+        1127,
+        46,
+        44
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (2)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (2).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (2)_defect.png",
+    "bboxes_xywh": [
+      [
+        1077,
+        1212,
+        11,
+        18
+      ],
+      [
+        1017,
+        970,
+        14,
+        12
+      ],
+      [
+        881,
+        965,
+        82,
+        182
+      ],
+      [
+        555,
+        921,
+        5,
+        4
+      ],
+      [
+        677,
+        898,
+        10,
+        13
+      ],
+      [
+        554,
+        881,
+        6,
+        7
+      ],
+      [
+        562,
+        863,
+        3,
+        5
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (20)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (20).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (20)_defect.png",
+    "bboxes_xywh": [
+      [
+        962,
+        1852,
+        10,
+        15
+      ],
+      [
+        1052,
+        1780,
+        6,
+        6
+      ],
+      [
+        1405,
+        961,
+        8,
+        9
+      ],
+      [
+        1353,
+        928,
+        23,
+        24
+      ],
+      [
+        1102,
+        707,
+        25,
+        19
+      ],
+      [
+        1207,
+        328,
+        10,
+        13
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (200)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (200).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (200)_defect.png",
+    "bboxes_xywh": [
+      [
+        1124,
+        1732,
+        52,
+        51
+      ],
+      [
+        1380,
+        1116,
+        40,
+        139
+      ],
+      [
+        973,
+        788,
+        21,
+        106
+      ],
+      [
+        1001,
+        702,
+        22,
+        23
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (201)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (201).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (201)_defect.png",
+    "bboxes_xywh": [
+      [
+        1269,
+        699,
+        37,
+        23
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (202)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (202).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (202)_defect.png",
+    "bboxes_xywh": [
+      [
+        706,
+        1097,
+        13,
+        26
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (203)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (203).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (203)_defect.png",
+    "bboxes_xywh": [
+      [
+        1250,
+        1284,
+        14,
+        17
+      ],
+      [
+        291,
+        1284,
+        55,
+        130
+      ],
+      [
+        1621,
+        1209,
+        21,
+        19
+      ],
+      [
+        1040,
+        1112,
+        32,
+        19
+      ],
+      [
+        578,
+        827,
+        34,
+        18
+      ],
+      [
+        1330,
+        801,
+        24,
+        105
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (204)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (204).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (204)_defect.png",
+    "bboxes_xywh": [
+      [
+        1272,
+        1764,
+        135,
+        66
+      ],
+      [
+        1112,
+        1045,
+        11,
+        33
+      ],
+      [
+        841,
+        570,
+        23,
+        23
+      ],
+      [
+        1211,
+        467,
+        17,
+        26
+      ],
+      [
+        820,
+        228,
+        171,
+        57
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (205)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (205).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (205)_defect.png",
+    "bboxes_xywh": [
+      [
+        1114,
+        745,
+        18,
+        23
+      ],
+      [
+        1356,
+        714,
+        12,
+        12
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (206)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (206).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (206)_defect.png",
+    "bboxes_xywh": [
+      [
+        742,
+        963,
+        22,
+        23
+      ],
+      [
+        978,
+        500,
+        21,
+        16
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (207)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (207).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (207)_defect.png",
+    "bboxes_xywh": [
+      [
+        1355,
+        1365,
+        32,
+        17
+      ],
+      [
+        721,
+        1341,
+        24,
+        25
+      ],
+      [
+        1332,
+        1174,
+        304,
+        137
+      ],
+      [
+        1726,
+        1075,
+        14,
+        19
+      ],
+      [
+        233,
+        987,
+        6,
+        27
+      ],
+      [
+        127,
+        860,
+        16,
+        26
+      ],
+      [
+        203,
+        841,
+        17,
+        13
+      ],
+      [
+        586,
+        836,
+        25,
+        34
+      ],
+      [
+        1458,
+        808,
+        9,
+        11
+      ],
+      [
+        1499,
+        620,
+        58,
+        209
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (208)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (208).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (208)_defect.png",
+    "bboxes_xywh": [
+      [
+        868,
+        1912,
+        22,
+        12
+      ],
+      [
+        979,
+        1811,
+        43,
+        16
+      ],
+      [
+        1344,
+        1296,
+        22,
+        29
+      ],
+      [
+        1367,
+        666,
+        15,
+        29
+      ],
+      [
+        612,
+        536,
+        36,
+        25
+      ],
+      [
+        736,
+        494,
+        26,
+        18
+      ],
+      [
+        1176,
+        426,
+        115,
+        268
+      ],
+      [
+        998,
+        315,
+        99,
+        53
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (209)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (209).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (209)_defect.png",
+    "bboxes_xywh": [
+      [
+        948,
+        1383,
+        26,
+        16
+      ],
+      [
+        577,
+        1259,
+        82,
+        56
+      ],
+      [
+        1644,
+        1051,
+        7,
+        21
+      ],
+      [
+        195,
+        994,
+        11,
+        16
+      ],
+      [
+        401,
+        804,
+        8,
+        16
+      ],
+      [
+        339,
+        787,
+        29,
+        81
+      ],
+      [
+        1583,
+        781,
+        33,
+        50
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (21)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (21).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (21)_defect.png",
+    "bboxes_xywh": [
+      [
+        1064,
+        1247,
+        10,
+        8
+      ],
+      [
+        1403,
+        1204,
+        9,
+        8
+      ],
+      [
+        120,
+        1105,
+        19,
+        10
+      ],
+      [
+        48,
+        1064,
+        12,
+        34
+      ],
+      [
+        84,
+        970,
+        26,
+        41
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (210)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (210).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (210)_defect.png",
+    "bboxes_xywh": [
+      [
+        785,
+        1548,
+        84,
+        35
+      ],
+      [
+        707,
+        1510,
+        13,
+        19
+      ],
+      [
+        802,
+        1462,
+        39,
+        59
+      ],
+      [
+        1255,
+        1259,
+        55,
+        36
+      ],
+      [
+        783,
+        298,
+        49,
+        44
+      ],
+      [
+        1051,
+        264,
+        27,
+        17
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (211)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (211).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (211)_defect.png",
+    "bboxes_xywh": [
+      [
+        561,
+        1410,
+        21,
+        25
+      ],
+      [
+        1571,
+        1071,
+        116,
+        58
+      ],
+      [
+        1231,
+        1067,
+        21,
+        23
+      ],
+      [
+        1710,
+        1038,
+        50,
+        66
+      ],
+      [
+        1557,
+        1032,
+        112,
+        32
+      ],
+      [
+        1704,
+        935,
+        160,
+        354
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (212)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (212).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (212)_defect.png",
+    "bboxes_xywh": [
+      [
+        1412,
+        1476,
+        15,
+        17
+      ],
+      [
+        1036,
+        363,
+        89,
+        144
+      ],
+      [
+        1044,
+        295,
+        63,
+        45
+      ],
+      [
+        816,
+        187,
+        459,
+        157
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (213)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (213).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (213)_defect.png",
+    "bboxes_xywh": [
+      [
+        1331,
+        1414,
+        23,
+        15
+      ],
+      [
+        93,
+        1213,
+        17,
+        26
+      ],
+      [
+        1719,
+        883,
+        10,
+        15
+      ],
+      [
+        1507,
+        714,
+        336,
+        415
+      ],
+      [
+        1382,
+        654,
+        33,
+        23
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (214)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (214).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (214)_defect.png",
+    "bboxes_xywh": [
+      [
+        786,
+        971,
+        6,
+        11
+      ],
+      [
+        1413,
+        718,
+        16,
+        22
+      ],
+      [
+        656,
+        656,
+        18,
+        35
+      ],
+      [
+        721,
+        226,
+        417,
+        352
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (215)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (215).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (215)_defect.png",
+    "bboxes_xywh": [
+      [
+        1290,
+        1437,
+        25,
+        20
+      ],
+      [
+        1593,
+        1241,
+        33,
+        26
+      ],
+      [
+        1540,
+        1198,
+        37,
+        29
+      ],
+      [
+        1214,
+        1007,
+        23,
+        7
+      ],
+      [
+        1629,
+        762,
+        233,
+        533
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (216)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (216).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (216)_defect.png",
+    "bboxes_xywh": [
+      [
+        1003,
+        807,
+        20,
+        24
+      ],
+      [
+        1361,
+        573,
+        9,
+        18
+      ],
+      [
+        1196,
+        473,
+        32,
+        36
+      ],
+      [
+        1243,
+        422,
+        25,
+        29
+      ],
+      [
+        1221,
+        322,
+        70,
+        118
+      ],
+      [
+        1107,
+        234,
+        14,
+        19
+      ],
+      [
+        1125,
+        211,
+        82,
+        156
+      ],
+      [
+        974,
+        196,
+        31,
+        14
+      ],
+      [
+        997,
+        185,
+        114,
+        66
+      ],
+      [
+        766,
+        185,
+        213,
+        159
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (217)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (217).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (217)_defect.png",
+    "bboxes_xywh": [
+      [
+        1025,
+        1448,
+        38,
+        18
+      ],
+      [
+        940,
+        819,
+        14,
+        20
+      ],
+      [
+        1791,
+        798,
+        82,
+        371
+      ],
+      [
+        1788,
+        730,
+        28,
+        35
+      ],
+      [
+        1427,
+        712,
+        42,
+        31
+      ],
+      [
+        831,
+        628,
+        23,
+        20
+      ],
+      [
+        1462,
+        603,
+        25,
+        19
+      ],
+      [
+        1366,
+        603,
+        36,
+        44
+      ],
+      [
+        1185,
+        600,
+        32,
+        24
+      ],
+      [
+        1143,
+        556,
+        20,
+        14
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (218)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (218).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (218)_defect.png",
+    "bboxes_xywh": [
+      [
+        633,
+        1174,
+        13,
+        20
+      ],
+      [
+        817,
+        1075,
+        20,
+        14
+      ],
+      [
+        1404,
+        998,
+        18,
+        29
+      ],
+      [
+        1448,
+        965,
+        19,
+        45
+      ],
+      [
+        559,
+        863,
+        11,
+        21
+      ],
+      [
+        599,
+        811,
+        26,
+        39
+      ],
+      [
+        711,
+        562,
+        34,
+        42
+      ],
+      [
+        605,
+        536,
+        20,
+        31
+      ],
+      [
+        696,
+        157,
+        476,
+        124
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (219)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (219).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (219)_defect.png",
+    "bboxes_xywh": [
+      [
+        833,
+        1630,
+        18,
+        8
+      ],
+      [
+        668,
+        1375,
+        26,
+        46
+      ],
+      [
+        165,
+        1260,
+        11,
+        17
+      ],
+      [
+        848,
+        883,
+        18,
+        17
+      ],
+      [
+        1478,
+        870,
+        39,
+        70
+      ],
+      [
+        1041,
+        806,
+        16,
+        28
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (22)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (22).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (22)_defect.png",
+    "bboxes_xywh": [
+      [
+        1106,
+        1852,
+        11,
+        20
+      ],
+      [
+        1247,
+        916,
+        8,
+        10
+      ],
+      [
+        1205,
+        577,
+        8,
+        8
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (220)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (220).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (220)_defect.png",
+    "bboxes_xywh": [
+      [
+        1262,
+        2098,
+        14,
+        13
+      ],
+      [
+        951,
+        1849,
+        5,
+        16
+      ],
+      [
+        1371,
+        1586,
+        53,
+        20
+      ],
+      [
+        883,
+        1412,
+        20,
+        12
+      ],
+      [
+        812,
+        1213,
+        23,
+        16
+      ],
+      [
+        877,
+        763,
+        42,
+        30
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (221)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (221).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (221)_defect.png",
+    "bboxes_xywh": [
+      [
+        1561,
+        1214,
+        20,
+        18
+      ],
+      [
+        346,
+        873,
+        12,
+        49
+      ],
+      [
+        388,
+        818,
+        52,
+        76
+      ],
+      [
+        804,
+        743,
+        31,
+        44
+      ],
+      [
+        566,
+        700,
+        78,
+        34
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (222)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (222).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (222)_defect.png",
+    "bboxes_xywh": [
+      [
+        867,
+        1855,
+        30,
+        16
+      ],
+      [
+        820,
+        1784,
+        79,
+        45
+      ],
+      [
+        700,
+        1567,
+        40,
+        83
+      ],
+      [
+        742,
+        1371,
+        49,
+        49
+      ],
+      [
+        1208,
+        628,
+        28,
+        20
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (223)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (223).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (223)_defect.png",
+    "bboxes_xywh": [
+      [
+        1395,
+        1320,
+        47,
+        57
+      ],
+      [
+        1311,
+        1277,
+        40,
+        42
+      ],
+      [
+        1580,
+        964,
+        136,
+        104
+      ],
+      [
+        1891,
+        928,
+        134,
+        522
+      ],
+      [
+        1764,
+        924,
+        194,
+        224
+      ],
+      [
+        1773,
+        833,
+        42,
+        33
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (224)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (224).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (224)_defect.png",
+    "bboxes_xywh": [
+      [
+        939,
+        2098,
+        27,
+        34
+      ],
+      [
+        1282,
+        967,
+        32,
+        26
+      ],
+      [
+        1330,
+        870,
+        41,
+        45
+      ],
+      [
+        973,
+        591,
+        100,
+        140
+      ],
+      [
+        838,
+        345,
+        245,
+        194
+      ],
+      [
+        1096,
+        288,
+        393,
+        160
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (225)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (225).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (225)_defect.png",
+    "bboxes_xywh": [
+      [
+        1665,
+        1489,
+        47,
+        21
+      ],
+      [
+        169,
+        1178,
+        19,
+        20
+      ],
+      [
+        119,
+        1175,
+        14,
+        31
+      ],
+      [
+        1855,
+        837,
+        132,
+        328
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (226)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (226).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (226)_defect.png",
+    "bboxes_xywh": [
+      [
+        1182,
+        2114,
+        20,
+        21
+      ],
+      [
+        1490,
+        598,
+        20,
+        42
+      ],
+      [
+        842,
+        317,
+        267,
+        123
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (227)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (227).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (227)_defect.png",
+    "bboxes_xywh": [
+      [
+        420,
+        1382,
+        35,
+        48
+      ],
+      [
+        1179,
+        1378,
+        51,
+        45
+      ],
+      [
+        259,
+        1273,
+        21,
+        22
+      ],
+      [
+        480,
+        1244,
+        19,
+        37
+      ],
+      [
+        1465,
+        1151,
+        14,
+        22
+      ],
+      [
+        1227,
+        1129,
+        38,
+        40
+      ],
+      [
+        1298,
+        1113,
+        33,
+        32
+      ],
+      [
+        1617,
+        1041,
+        110,
+        73
+      ],
+      [
+        1340,
+        1019,
+        88,
+        185
+      ],
+      [
+        1607,
+        929,
+        49,
+        71
+      ],
+      [
+        830,
+        735,
+        19,
+        19
+      ],
+      [
+        854,
+        682,
+        13,
+        11
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (228)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (228).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (228)_defect.png",
+    "bboxes_xywh": [
+      [
+        738,
+        1304,
+        19,
+        14
+      ],
+      [
+        680,
+        1281,
+        11,
+        16
+      ],
+      [
+        1385,
+        923,
+        41,
+        44
+      ],
+      [
+        1130,
+        894,
+        29,
+        17
+      ],
+      [
+        1055,
+        740,
+        148,
+        66
+      ],
+      [
+        943,
+        502,
+        47,
+        30
+      ],
+      [
+        1043,
+        420,
+        77,
+        116
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (229)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (229).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (229)_defect.png",
+    "bboxes_xywh": [
+      [
+        1429,
+        1400,
+        27,
+        33
+      ],
+      [
+        1682,
+        1346,
+        19,
+        27
+      ],
+      [
+        1829,
+        1248,
+        77,
+        107
+      ],
+      [
+        1499,
+        1156,
+        29,
+        56
+      ],
+      [
+        1293,
+        1115,
+        26,
+        98
+      ],
+      [
+        511,
+        780,
+        16,
+        23
+      ],
+      [
+        563,
+        598,
+        258,
+        64
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (23)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (23).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (23)_defect.png",
+    "bboxes_xywh": [
+      [
+        1373,
+        1304,
+        20,
+        10
+      ],
+      [
+        1637,
+        924,
+        33,
+        27
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (230)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (230).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (230)_defect.png",
+    "bboxes_xywh": [
+      [
+        779,
+        1548,
+        24,
+        27
+      ],
+      [
+        601,
+        1334,
+        60,
+        186
+      ],
+      [
+        1123,
+        773,
+        16,
+        17
+      ],
+      [
+        1196,
+        762,
+        21,
+        16
+      ],
+      [
+        1396,
+        623,
+        33,
+        30
+      ],
+      [
+        1159,
+        562,
+        43,
+        24
+      ],
+      [
+        1342,
+        380,
+        34,
+        21
+      ],
+      [
+        1240,
+        162,
+        84,
+        90
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (231)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (231).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (231)_defect.png",
+    "bboxes_xywh": [
+      [
+        1094,
+        1940,
+        32,
+        43
+      ],
+      [
+        2369,
+        1812,
+        170,
+        66
+      ],
+      [
+        2553,
+        1711,
+        41,
+        63
+      ],
+      [
+        547,
+        1644,
+        200,
+        112
+      ],
+      [
+        527,
+        1580,
+        55,
+        58
+      ],
+      [
+        906,
+        1376,
+        57,
+        96
+      ],
+      [
+        2460,
+        1347,
+        200,
+        257
+      ],
+      [
+        295,
+        1152,
+        566,
+        328
+      ],
+      [
+        1830,
+        1032,
+        134,
+        69
+      ],
+      [
+        842,
+        1000,
+        389,
+        300
+      ],
+      [
+        1238,
+        982,
+        145,
+        116
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (232)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (232).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (232)_defect.png",
+    "bboxes_xywh": [
+      [
+        1589,
+        2424,
+        47,
+        49
+      ],
+      [
+        1723,
+        2353,
+        17,
+        21
+      ],
+      [
+        1097,
+        2021,
+        417,
+        693
+      ],
+      [
+        1947,
+        1873,
+        41,
+        44
+      ],
+      [
+        996,
+        1769,
+        296,
+        411
+      ],
+      [
+        974,
+        1597,
+        120,
+        167
+      ],
+      [
+        995,
+        1340,
+        46,
+        161
+      ],
+      [
+        1023,
+        1035,
+        78,
+        178
+      ],
+      [
+        1162,
+        721,
+        54,
+        77
+      ],
+      [
+        1694,
+        392,
+        88,
+        86
+      ],
+      [
+        1318,
+        340,
+        301,
+        223
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (233)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (233).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (233)_defect.png",
+    "bboxes_xywh": [
+      [
+        557,
+        1927,
+        396,
+        169
+      ],
+      [
+        2644,
+        1804,
+        58,
+        73
+      ],
+      [
+        2151,
+        1484,
+        48,
+        49
+      ],
+      [
+        2504,
+        1419,
+        126,
+        62
+      ],
+      [
+        407,
+        1320,
+        351,
+        427
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (234)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (234).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (234)_defect.png",
+    "bboxes_xywh": [
+      [
+        1514,
+        2602,
+        259,
+        148
+      ],
+      [
+        1489,
+        2496,
+        72,
+        131
+      ],
+      [
+        1216,
+        2308,
+        332,
+        403
+      ],
+      [
+        1896,
+        2187,
+        209,
+        432
+      ],
+      [
+        1492,
+        952,
+        32,
+        36
+      ],
+      [
+        1803,
+        447,
+        72,
+        68
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (235)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (235).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (235)_defect.png",
+    "bboxes_xywh": [
+      [
+        862,
+        2099,
+        86,
+        36
+      ],
+      [
+        1086,
+        1162,
+        664,
+        602
+      ],
+      [
+        1377,
+        1007,
+        62,
+        45
+      ],
+      [
+        1687,
+        980,
+        679,
+        378
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (236)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (236).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (236)_defect.png",
+    "bboxes_xywh": [
+      [
+        2084,
+        2176,
+        56,
+        91
+      ],
+      [
+        999,
+        1681,
+        68,
+        80
+      ],
+      [
+        1140,
+        1361,
+        621,
+        692
+      ],
+      [
+        972,
+        1216,
+        106,
+        235
+      ],
+      [
+        1022,
+        766,
+        326,
+        441
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (237)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (237).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (237)_defect.png",
+    "bboxes_xywh": [
+      [
+        556,
+        1987,
+        92,
+        42
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (238)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (238).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (238)_defect.png",
+    "bboxes_xywh": [
+      [
+        1967,
+        2535,
+        61,
+        109
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (239)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (239).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (239)_defect.png",
+    "bboxes_xywh": [
+      [
+        3477,
+        3477,
+        32,
+        31
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (24)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (24).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (24)_defect.png",
+    "bboxes_xywh": [
+      [
+        1513,
+        903,
+        9,
+        15
+      ],
+      [
+        1304,
+        786,
+        7,
+        25
+      ],
+      [
+        919,
+        509,
+        36,
+        34
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (240)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (240).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (240)_defect.png",
+    "bboxes_xywh": [
+      [
+        3483,
+        2377,
+        18,
+        39
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (241)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (241).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (241)_defect.png",
+    "bboxes_xywh": [
+      [
+        1657,
+        1986,
+        42,
+        34
+      ],
+      [
+        1011,
+        1841,
+        46,
+        35
+      ],
+      [
+        774,
+        1661,
+        53,
+        79
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (242)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (242).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (242)_defect.png",
+    "bboxes_xywh": [
+      [
+        1698,
+        2733,
+        61,
+        27
+      ],
+      [
+        1839,
+        2495,
+        34,
+        57
+      ],
+      [
+        1987,
+        1854,
+        38,
+        44
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (243)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (243).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (243)_defect.png",
+    "bboxes_xywh": [
+      [
+        745,
+        1233,
+        155,
+        16
+      ],
+      [
+        130,
+        889,
+        22,
+        38
+      ],
+      [
+        756,
+        746,
+        20,
+        19
+      ],
+      [
+        598,
+        547,
+        20,
+        17
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (244)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (244).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (244)_defect.png",
+    "bboxes_xywh": [
+      [
+        900,
+        1572,
+        22,
+        21
+      ],
+      [
+        1104,
+        1350,
+        9,
+        17
+      ],
+      [
+        551,
+        1110,
+        12,
+        13
+      ],
+      [
+        740,
+        950,
+        23,
+        21
+      ],
+      [
+        1236,
+        811,
+        12,
+        165
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (25)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (25).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (25)_defect.png",
+    "bboxes_xywh": [
+      [
+        512,
+        1235,
+        23,
+        24
+      ],
+      [
+        287,
+        1109,
+        17,
+        22
+      ],
+      [
+        360,
+        771,
+        56,
+        209
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (26)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (26).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (26)_defect.png",
+    "bboxes_xywh": [
+      [
+        1111,
+        1695,
+        20,
+        16
+      ],
+      [
+        956,
+        1625,
+        26,
+        15
+      ],
+      [
+        1161,
+        1617,
+        11,
+        16
+      ],
+      [
+        1237,
+        1462,
+        23,
+        24
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (27)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (27).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (27)_defect.png",
+    "bboxes_xywh": [
+      [
+        225,
+        1154,
+        7,
+        8
+      ],
+      [
+        184,
+        1105,
+        24,
+        30
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (28)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (28).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (28)_defect.png",
+    "bboxes_xywh": [
+      [
+        938,
+        1969,
+        31,
+        19
+      ],
+      [
+        1104,
+        1854,
+        10,
+        7
+      ],
+      [
+        1153,
+        1812,
+        8,
+        9
+      ],
+      [
+        1259,
+        1681,
+        9,
+        19
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (29)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (29).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (29)_defect.png",
+    "bboxes_xywh": [
+      [
+        139,
+        1202,
+        6,
+        9
+      ],
+      [
+        96,
+        1157,
+        7,
+        9
+      ],
+      [
+        118,
+        1087,
+        7,
+        7
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (3)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (3).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (3)_defect.png",
+    "bboxes_xywh": [
+      [
+        556,
+        1255,
+        26,
+        29
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (30)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (30).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (30)_defect.png",
+    "bboxes_xywh": [
+      [
+        1088,
+        1901,
+        4,
+        8
+      ],
+      [
+        1202,
+        1885,
+        9,
+        5
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (31)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (31).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (31)_defect.png",
+    "bboxes_xywh": [
+      [
+        739,
+        1276,
+        6,
+        5
+      ],
+      [
+        694,
+        1219,
+        3,
+        7
+      ],
+      [
+        703,
+        1217,
+        5,
+        2
+      ],
+      [
+        705,
+        1209,
+        4,
+        5
+      ],
+      [
+        1307,
+        1207,
+        17,
+        11
+      ],
+      [
+        1281,
+        1154,
+        31,
+        25
+      ],
+      [
+        1208,
+        1142,
+        58,
+        35
+      ],
+      [
+        821,
+        1111,
+        9,
+        5
+      ],
+      [
+        853,
+        1104,
+        8,
+        6
+      ],
+      [
+        824,
+        1096,
+        6,
+        5
+      ],
+      [
+        908,
+        1083,
+        7,
+        5
+      ],
+      [
+        674,
+        758,
+        16,
+        12
+      ],
+      [
+        550,
+        755,
+        7,
+        6
+      ],
+      [
+        1065,
+        710,
+        41,
+        29
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (32)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (32).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (32)_defect.png",
+    "bboxes_xywh": [
+      [
+        758,
+        1167,
+        11,
+        20
+      ],
+      [
+        1129,
+        684,
+        6,
+        8
+      ],
+      [
+        1115,
+        634,
+        6,
+        6
+      ],
+      [
+        1155,
+        547,
+        23,
+        29
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (33)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (33).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (33)_defect.png",
+    "bboxes_xywh": [
+      [
+        470,
+        1073,
+        10,
+        10
+      ],
+      [
+        327,
+        1006,
+        17,
+        15
+      ],
+      [
+        1578,
+        825,
+        10,
+        12
+      ],
+      [
+        945,
+        465,
+        32,
+        14
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (34)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (34).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (34)_defect.png",
+    "bboxes_xywh": [
+      [
+        1006,
+        1327,
+        14,
+        24
+      ],
+      [
+        465,
+        700,
+        15,
+        30
+      ],
+      [
+        653,
+        205,
+        13,
+        15
+      ],
+      [
+        826,
+        88,
+        15,
+        12
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (35)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (35).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (35)_defect.png",
+    "bboxes_xywh": [
+      [
+        53,
+        803,
+        10,
+        13
+      ],
+      [
+        71,
+        798,
+        15,
+        27
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (36)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (36).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (36)_defect.png",
+    "bboxes_xywh": [
+      [
+        805,
+        1768,
+        10,
+        4
+      ],
+      [
+        801,
+        1745,
+        5,
+        5
+      ],
+      [
+        821,
+        1741,
+        3,
+        4
+      ],
+      [
+        564,
+        515,
+        11,
+        38
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (37)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (37).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (37)_defect.png",
+    "bboxes_xywh": [
+      [
+        887,
+        1234,
+        18,
+        12
+      ],
+      [
+        131,
+        1097,
+        7,
+        13
+      ],
+      [
+        1590,
+        901,
+        13,
+        19
+      ],
+      [
+        1605,
+        885,
+        5,
+        6
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (38)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (38).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (38)_defect.png",
+    "bboxes_xywh": [
+      [
+        1051,
+        1732,
+        35,
+        13
+      ],
+      [
+        1237,
+        904,
+        7,
+        12
+      ],
+      [
+        901,
+        202,
+        20,
+        14
+      ],
+      [
+        883,
+        195,
+        9,
+        5
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (39)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (39).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (39)_defect.png",
+    "bboxes_xywh": [
+      [
+        1400,
+        888,
+        7,
+        10
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (4)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (4).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (4)_defect.png",
+    "bboxes_xywh": [
+      [
+        1256,
+        1359,
+        22,
+        26
+      ],
+      [
+        1156,
+        347,
+        11,
+        11
+      ],
+      [
+        744,
+        291,
+        8,
+        8
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (40)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (40).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (40)_defect.png",
+    "bboxes_xywh": [
+      [
+        890,
+        509,
+        6,
+        8
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (41)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (41).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (41)_defect.png",
+    "bboxes_xywh": [
+      [
+        913,
+        1329,
+        13,
+        5
+      ],
+      [
+        1022,
+        1158,
+        9,
+        6
+      ],
+      [
+        978,
+        1136,
+        30,
+        60
+      ],
+      [
+        985,
+        1075,
+        32,
+        36
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (42)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (42).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (42)_defect.png",
+    "bboxes_xywh": [
+      [
+        1326,
+        900,
+        11,
+        21
+      ],
+      [
+        1072,
+        797,
+        121,
+        57
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (43)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (43).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (43)_defect.png",
+    "bboxes_xywh": [
+      [
+        733,
+        1402,
+        8,
+        12
+      ],
+      [
+        891,
+        1398,
+        6,
+        7
+      ],
+      [
+        1761,
+        1023,
+        10,
+        13
+      ],
+      [
+        1772,
+        975,
+        16,
+        40
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (44)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (44).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (44)_defect.png",
+    "bboxes_xywh": [
+      [
+        1402,
+        1282,
+        11,
+        10
+      ],
+      [
+        1021,
+        254,
+        16,
+        9
+      ],
+      [
+        973,
+        237,
+        42,
+        18
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (45)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (45).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (45)_defect.png",
+    "bboxes_xywh": [
+      [
+        800,
+        1042,
+        18,
+        16
+      ],
+      [
+        1599,
+        1020,
+        30,
+        17
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (46)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (46).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (46)_defect.png",
+    "bboxes_xywh": [
+      [
+        1044,
+        1115,
+        14,
+        24
+      ],
+      [
+        1022,
+        312,
+        21,
+        32
+      ],
+      [
+        750,
+        288,
+        11,
+        9
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (47)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (47).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (47)_defect.png",
+    "bboxes_xywh": [
+      [
+        1221,
+        1162,
+        8,
+        8
+      ],
+      [
+        1168,
+        966,
+        29,
+        42
+      ],
+      [
+        106,
+        903,
+        16,
+        12
+      ],
+      [
+        70,
+        871,
+        12,
+        17
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (48)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (48).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (48)_defect.png",
+    "bboxes_xywh": [
+      [
+        993,
+        756,
+        11,
+        20
+      ],
+      [
+        1000,
+        750,
+        8,
+        5
+      ],
+      [
+        979,
+        750,
+        12,
+        11
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (49)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (49).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (49)_defect.png",
+    "bboxes_xywh": [
+      [
+        1660,
+        921,
+        12,
+        11
+      ],
+      [
+        1659,
+        884,
+        8,
+        11
+      ],
+      [
+        1646,
+        849,
+        8,
+        11
+      ],
+      [
+        1514,
+        798,
+        7,
+        5
+      ],
+      [
+        1599,
+        796,
+        9,
+        10
+      ],
+      [
+        1540,
+        794,
+        59,
+        44
+      ],
+      [
+        1576,
+        787,
+        5,
+        5
+      ],
+      [
+        1610,
+        780,
+        10,
+        12
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (5)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (5).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (5)_defect.png",
+    "bboxes_xywh": [
+      [
+        888,
+        1140,
+        7,
+        7
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (50)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (50).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (50)_defect.png",
+    "bboxes_xywh": [
+      [
+        793,
+        332,
+        37,
+        58
+      ],
+      [
+        795,
+        321,
+        11,
+        10
+      ],
+      [
+        781,
+        309,
+        8,
+        9
+      ],
+      [
+        849,
+        273,
+        15,
+        9
+      ],
+      [
+        886,
+        262,
+        12,
+        8
+      ],
+      [
+        920,
+        257,
+        12,
+        12
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (51)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (51).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (51)_defect.png",
+    "bboxes_xywh": [
+      [
+        1202,
+        1349,
+        22,
+        16
+      ],
+      [
+        511,
+        1287,
+        15,
+        45
+      ],
+      [
+        260,
+        1238,
+        21,
+        20
+      ],
+      [
+        251,
+        1160,
+        18,
+        18
+      ],
+      [
+        257,
+        1139,
+        7,
+        13
+      ],
+      [
+        197,
+        1117,
+        25,
+        17
+      ],
+      [
+        147,
+        1090,
+        14,
+        23
+      ],
+      [
+        120,
+        1076,
+        17,
+        35
+      ],
+      [
+        341,
+        927,
+        4,
+        9
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (52)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (52).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (52)_defect.png",
+    "bboxes_xywh": [
+      [
+        1079,
+        1882,
+        37,
+        16
+      ],
+      [
+        1092,
+        1844,
+        31,
+        27
+      ],
+      [
+        1156,
+        1803,
+        17,
+        18
+      ],
+      [
+        1119,
+        1799,
+        12,
+        22
+      ],
+      [
+        1139,
+        1754,
+        13,
+        10
+      ],
+      [
+        1160,
+        1753,
+        18,
+        15
+      ],
+      [
+        1236,
+        1737,
+        23,
+        27
+      ],
+      [
+        926,
+        1676,
+        10,
+        6
+      ],
+      [
+        1286,
+        1495,
+        48,
+        15
+      ],
+      [
+        1349,
+        796,
+        13,
+        21
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (53)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (53).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (53)_defect.png",
+    "bboxes_xywh": [
+      [
+        142,
+        1224,
+        15,
+        11
+      ],
+      [
+        259,
+        1223,
+        6,
+        5
+      ],
+      [
+        1774,
+        996,
+        5,
+        8
+      ],
+      [
+        1718,
+        986,
+        8,
+        11
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (54)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (54).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (54)_defect.png",
+    "bboxes_xywh": [
+      [
+        1225,
+        1857,
+        8,
+        13
+      ],
+      [
+        987,
+        289,
+        7,
+        4
+      ],
+      [
+        995,
+        233,
+        11,
+        6
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (55)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (55).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (55)_defect.png",
+    "bboxes_xywh": [
+      [
+        377,
+        1285,
+        15,
+        13
+      ],
+      [
+        448,
+        1260,
+        4,
+        6
+      ],
+      [
+        368,
+        1212,
+        8,
+        14
+      ],
+      [
+        640,
+        1121,
+        26,
+        8
+      ],
+      [
+        626,
+        1113,
+        9,
+        8
+      ],
+      [
+        148,
+        1078,
+        6,
+        13
+      ],
+      [
+        129,
+        1058,
+        8,
+        25
+      ],
+      [
+        135,
+        1048,
+        5,
+        5
+      ],
+      [
+        189,
+        781,
+        10,
+        6
+      ],
+      [
+        564,
+        721,
+        17,
+        6
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (56)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (56).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (56)_defect.png",
+    "bboxes_xywh": [
+      [
+        927,
+        1853,
+        32,
+        12
+      ],
+      [
+        1059,
+        1792,
+        27,
+        8
+      ],
+      [
+        1048,
+        1790,
+        5,
+        4
+      ],
+      [
+        1078,
+        1775,
+        15,
+        6
+      ],
+      [
+        781,
+        1727,
+        8,
+        14
+      ],
+      [
+        1092,
+        1605,
+        10,
+        8
+      ],
+      [
+        1210,
+        1551,
+        16,
+        9
+      ],
+      [
+        1287,
+        1538,
+        10,
+        12
+      ],
+      [
+        1260,
+        1477,
+        5,
+        7
+      ],
+      [
+        1113,
+        1269,
+        16,
+        32
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (57)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (57).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (57)_defect.png",
+    "bboxes_xywh": [
+      [
+        60,
+        1186,
+        6,
+        5
+      ],
+      [
+        1587,
+        1143,
+        9,
+        8
+      ],
+      [
+        37,
+        1121,
+        5,
+        27
+      ],
+      [
+        1401,
+        959,
+        22,
+        23
+      ],
+      [
+        1532,
+        819,
+        8,
+        7
+      ],
+      [
+        537,
+        588,
+        9,
+        5
+      ],
+      [
+        527,
+        585,
+        10,
+        6
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (58)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (58).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (58)_defect.png",
+    "bboxes_xywh": [
+      [
+        1116,
+        1829,
+        34,
+        7
+      ],
+      [
+        1186,
+        1806,
+        6,
+        7
+      ],
+      [
+        585,
+        1336,
+        8,
+        13
+      ],
+      [
+        588,
+        1329,
+        6,
+        6
+      ],
+      [
+        959,
+        450,
+        20,
+        19
+      ],
+      [
+        819,
+        335,
+        8,
+        4
+      ],
+      [
+        1145,
+        276,
+        5,
+        9
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (59)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (59).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (59)_defect.png",
+    "bboxes_xywh": [
+      [
+        151,
+        964,
+        15,
+        19
+      ],
+      [
+        663,
+        725,
+        8,
+        6
+      ],
+      [
+        760,
+        657,
+        8,
+        6
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (6)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (6).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (6)_defect.png",
+    "bboxes_xywh": [
+      [
+        1141,
+        1007,
+        7,
+        8
+      ],
+      [
+        912,
+        293,
+        7,
+        6
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (60)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (60).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (60)_defect.png",
+    "bboxes_xywh": [
+      [
+        964,
+        1624,
+        18,
+        16
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (61)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (61).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (61)_defect.png",
+    "bboxes_xywh": [
+      [
+        1300,
+        1086,
+        50,
+        37
+      ],
+      [
+        1186,
+        510,
+        12,
+        17
+      ],
+      [
+        1139,
+        492,
+        12,
+        7
+      ],
+      [
+        1100,
+        487,
+        17,
+        12
+      ],
+      [
+        1127,
+        482,
+        11,
+        5
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (62)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (62).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (62)_defect.png",
+    "bboxes_xywh": [
+      [
+        485,
+        684,
+        14,
+        20
+      ],
+      [
+        483,
+        665,
+        3,
+        7
+      ],
+      [
+        492,
+        651,
+        8,
+        8
+      ],
+      [
+        511,
+        602,
+        19,
+        14
+      ],
+      [
+        1082,
+        441,
+        40,
+        59
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (63)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (63).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (63)_defect.png",
+    "bboxes_xywh": [
+      [
+        425,
+        892,
+        17,
+        16
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (64)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (64).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (64)_defect.png",
+    "bboxes_xywh": []
+  },
+  {
+    "image_id": "NDM_M1 (65)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (65).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (65)_defect.png",
+    "bboxes_xywh": [
+      [
+        1687,
+        1141,
+        25,
+        24
+      ],
+      [
+        557,
+        824,
+        7,
+        14
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (66)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (66).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (66)_defect.png",
+    "bboxes_xywh": [
+      [
+        823,
+        1422,
+        14,
+        4
+      ],
+      [
+        1166,
+        299,
+        8,
+        7
+      ],
+      [
+        1146,
+        278,
+        15,
+        18
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (67)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (67).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (67)_defect.png",
+    "bboxes_xywh": [
+      [
+        355,
+        1248,
+        8,
+        9
+      ],
+      [
+        1687,
+        771,
+        26,
+        67
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (68)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (68).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (68)_defect.png",
+    "bboxes_xywh": [
+      [
+        1247,
+        1690,
+        11,
+        9
+      ],
+      [
+        682,
+        696,
+        20,
+        7
+      ],
+      [
+        1013,
+        492,
+        9,
+        9
+      ],
+      [
+        1042,
+        454,
+        8,
+        10
+      ],
+      [
+        768,
+        340,
+        71,
+        26
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (69)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (69).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (69)_defect.png",
+    "bboxes_xywh": [
+      [
+        69,
+        1400,
+        18,
+        16
+      ],
+      [
+        60,
+        1390,
+        6,
+        9
+      ],
+      [
+        132,
+        1156,
+        8,
+        5
+      ],
+      [
+        411,
+        959,
+        5,
+        11
+      ],
+      [
+        846,
+        803,
+        14,
+        18
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (7)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (7).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (7)_defect.png",
+    "bboxes_xywh": [
+      [
+        110,
+        963,
+        13,
+        17
+      ],
+      [
+        881,
+        913,
+        15,
+        11
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (70)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (70).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (70)_defect.png",
+    "bboxes_xywh": [
+      [
+        1388,
+        1949,
+        8,
+        9
+      ],
+      [
+        1401,
+        1929,
+        15,
+        19
+      ],
+      [
+        958,
+        1600,
+        12,
+        7
+      ],
+      [
+        804,
+        1156,
+        17,
+        14
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (71)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (71).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (71)_defect.png",
+    "bboxes_xywh": [
+      [
+        1143,
+        1205,
+        18,
+        15
+      ],
+      [
+        1378,
+        1171,
+        37,
+        23
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (72)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (72).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (72)_defect.png",
+    "bboxes_xywh": [
+      [
+        1205,
+        986,
+        17,
+        21
+      ],
+      [
+        1168,
+        734,
+        27,
+        36
+      ],
+      [
+        1098,
+        615,
+        8,
+        8
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (73)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (73).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (73)_defect.png",
+    "bboxes_xywh": [
+      [
+        1772,
+        1085,
+        25,
+        33
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (74)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (74).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (74)_defect.png",
+    "bboxes_xywh": [
+      [
+        1086,
+        232,
+        33,
+        23
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (75)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (75).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (75)_defect.png",
+    "bboxes_xywh": [
+      [
+        1125,
+        1117,
+        13,
+        12
+      ],
+      [
+        1056,
+        781,
+        14,
+        14
+      ],
+      [
+        876,
+        760,
+        29,
+        29
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (76)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (76).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (76)_defect.png",
+    "bboxes_xywh": [
+      [
+        1118,
+        806,
+        9,
+        11
+      ],
+      [
+        1064,
+        291,
+        26,
+        22
+      ],
+      [
+        1000,
+        271,
+        59,
+        61
+      ],
+      [
+        724,
+        267,
+        78,
+        49
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (77)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (77).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (77)_defect.png",
+    "bboxes_xywh": [
+      [
+        1491,
+        1109,
+        25,
+        20
+      ],
+      [
+        1560,
+        887,
+        27,
+        22
+      ],
+      [
+        1616,
+        852,
+        10,
+        14
+      ],
+      [
+        1540,
+        783,
+        80,
+        83
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (78)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (78).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (78)_defect.png",
+    "bboxes_xywh": [
+      [
+        1109,
+        347,
+        21,
+        19
+      ],
+      [
+        1110,
+        341,
+        7,
+        6
+      ],
+      [
+        880,
+        340,
+        7,
+        6
+      ],
+      [
+        887,
+        270,
+        22,
+        26
+      ],
+      [
+        783,
+        238,
+        100,
+        80
+      ],
+      [
+        853,
+        231,
+        14,
+        10
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (79)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (79).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (79)_defect.png",
+    "bboxes_xywh": [
+      [
+        1089,
+        1290,
+        6,
+        22
+      ],
+      [
+        1070,
+        1275,
+        10,
+        7
+      ],
+      [
+        1365,
+        1257,
+        10,
+        7
+      ],
+      [
+        1215,
+        1225,
+        22,
+        14
+      ],
+      [
+        1586,
+        1021,
+        20,
+        12
+      ],
+      [
+        1620,
+        1007,
+        10,
+        9
+      ],
+      [
+        462,
+        919,
+        36,
+        32
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (8)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (8).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (8)_defect.png",
+    "bboxes_xywh": [
+      [
+        965,
+        1778,
+        13,
+        11
+      ],
+      [
+        896,
+        1022,
+        5,
+        3
+      ],
+      [
+        913,
+        1003,
+        12,
+        20
+      ],
+      [
+        1105,
+        247,
+        31,
+        82
+      ],
+      [
+        1088,
+        236,
+        11,
+        19
+      ],
+      [
+        945,
+        186,
+        107,
+        120
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (80)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (80).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (80)_defect.png",
+    "bboxes_xywh": [
+      [
+        919,
+        1585,
+        33,
+        34
+      ],
+      [
+        1211,
+        1023,
+        5,
+        6
+      ],
+      [
+        1276,
+        1000,
+        6,
+        9
+      ],
+      [
+        1290,
+        987,
+        20,
+        5
+      ],
+      [
+        1227,
+        842,
+        12,
+        22
+      ],
+      [
+        1257,
+        704,
+        7,
+        13
+      ],
+      [
+        910,
+        292,
+        17,
+        19
+      ],
+      [
+        882,
+        268,
+        32,
+        13
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (81)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (81).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (81)_defect.png",
+    "bboxes_xywh": [
+      [
+        1746,
+        787,
+        36,
+        110
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (82)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (82).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (82)_defect.png",
+    "bboxes_xywh": [
+      [
+        757,
+        211,
+        134,
+        51
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (83)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (83).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (83)_defect.png",
+    "bboxes_xywh": [
+      [
+        669,
+        1329,
+        10,
+        6
+      ],
+      [
+        1684,
+        949,
+        7,
+        9
+      ],
+      [
+        1752,
+        881,
+        9,
+        10
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (84)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (84).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (84)_defect.png",
+    "bboxes_xywh": [
+      [
+        1289,
+        738,
+        15,
+        12
+      ],
+      [
+        708,
+        641,
+        8,
+        5
+      ],
+      [
+        950,
+        157,
+        8,
+        9
+      ],
+      [
+        880,
+        90,
+        13,
+        7
+      ],
+      [
+        995,
+        41,
+        60,
+        42
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (85)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (85).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (85)_defect.png",
+    "bboxes_xywh": [
+      [
+        1131,
+        934,
+        31,
+        45
+      ],
+      [
+        1670,
+        665,
+        65,
+        57
+      ],
+      [
+        1706,
+        646,
+        61,
+        77
+      ],
+      [
+        1348,
+        611,
+        17,
+        16
+      ],
+      [
+        667,
+        602,
+        23,
+        14
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (86)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (86).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (86)_defect.png",
+    "bboxes_xywh": [
+      [
+        914,
+        1674,
+        10,
+        12
+      ],
+      [
+        603,
+        1149,
+        13,
+        26
+      ],
+      [
+        1266,
+        952,
+        5,
+        6
+      ],
+      [
+        933,
+        679,
+        42,
+        29
+      ],
+      [
+        612,
+        476,
+        17,
+        15
+      ],
+      [
+        622,
+        459,
+        8,
+        5
+      ],
+      [
+        634,
+        438,
+        9,
+        10
+      ],
+      [
+        630,
+        430,
+        6,
+        8
+      ],
+      [
+        642,
+        426,
+        10,
+        11
+      ],
+      [
+        665,
+        100,
+        60,
+        67
+      ],
+      [
+        642,
+        69,
+        84,
+        64
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (87)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (87).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (87)_defect.png",
+    "bboxes_xywh": [
+      [
+        1439,
+        1139,
+        7,
+        7
+      ],
+      [
+        1460,
+        1132,
+        9,
+        7
+      ],
+      [
+        1595,
+        1096,
+        12,
+        23
+      ],
+      [
+        1468,
+        1057,
+        13,
+        7
+      ],
+      [
+        1436,
+        1046,
+        8,
+        8
+      ],
+      [
+        131,
+        876,
+        27,
+        27
+      ],
+      [
+        148,
+        825,
+        20,
+        12
+      ],
+      [
+        893,
+        799,
+        25,
+        23
+      ],
+      [
+        1655,
+        716,
+        121,
+        204
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (88)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (88).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (88)_defect.png",
+    "bboxes_xywh": [
+      [
+        798,
+        1063,
+        28,
+        24
+      ],
+      [
+        1162,
+        804,
+        9,
+        10
+      ],
+      [
+        1325,
+        704,
+        5,
+        9
+      ],
+      [
+        1140,
+        535,
+        6,
+        6
+      ],
+      [
+        1046,
+        535,
+        10,
+        9
+      ],
+      [
+        1131,
+        512,
+        8,
+        8
+      ],
+      [
+        1057,
+        501,
+        9,
+        12
+      ],
+      [
+        1095,
+        372,
+        22,
+        14
+      ],
+      [
+        718,
+        206,
+        176,
+        118
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (89)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (89).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (89)_defect.png",
+    "bboxes_xywh": [
+      [
+        1146,
+        1212,
+        12,
+        11
+      ],
+      [
+        89,
+        1101,
+        23,
+        21
+      ],
+      [
+        1037,
+        1018,
+        31,
+        32
+      ],
+      [
+        1550,
+        934,
+        9,
+        22
+      ],
+      [
+        1570,
+        815,
+        7,
+        9
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (9)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (9).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (9)_defect.png",
+    "bboxes_xywh": [
+      [
+        1564,
+        829,
+        184,
+        162
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (90)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (90).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (90)_defect.png",
+    "bboxes_xywh": [
+      [
+        1099,
+        1757,
+        21,
+        20
+      ],
+      [
+        1209,
+        712,
+        11,
+        11
+      ],
+      [
+        930,
+        308,
+        24,
+        15
+      ],
+      [
+        814,
+        292,
+        10,
+        7
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (91)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (91).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (91)_defect.png",
+    "bboxes_xywh": [
+      [
+        1790,
+        942,
+        21,
+        26
+      ],
+      [
+        1129,
+        899,
+        15,
+        14
+      ],
+      [
+        1107,
+        878,
+        17,
+        18
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (92)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (92).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (92)_defect.png",
+    "bboxes_xywh": [
+      [
+        878,
+        921,
+        17,
+        21
+      ],
+      [
+        897,
+        905,
+        16,
+        15
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (93)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (93).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (93)_defect.png",
+    "bboxes_xywh": [
+      [
+        1869,
+        1014,
+        11,
+        25
+      ],
+      [
+        1837,
+        763,
+        15,
+        30
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (94)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (94).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (94)_defect.png",
+    "bboxes_xywh": [
+      [
+        1313,
+        717,
+        20,
+        17
+      ],
+      [
+        1015,
+        167,
+        25,
+        14
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (95)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (95).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (95)_defect.png",
+    "bboxes_xywh": [
+      [
+        1222,
+        915,
+        35,
+        31
+      ],
+      [
+        1265,
+        758,
+        34,
+        30
+      ],
+      [
+        161,
+        715,
+        9,
+        8
+      ],
+      [
+        167,
+        699,
+        12,
+        12
+      ],
+      [
+        178,
+        684,
+        10,
+        9
+      ],
+      [
+        1458,
+        614,
+        120,
+        379
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (96)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (96).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (96)_defect.png",
+    "bboxes_xywh": [
+      [
+        719,
+        1545,
+        5,
+        5
+      ],
+      [
+        705,
+        1541,
+        7,
+        5
+      ],
+      [
+        685,
+        1525,
+        9,
+        11
+      ],
+      [
+        917,
+        455,
+        29,
+        36
+      ],
+      [
+        758,
+        414,
+        31,
+        31
+      ],
+      [
+        615,
+        141,
+        377,
+        115
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (97)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (97).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (97)_defect.png",
+    "bboxes_xywh": [
+      [
+        1019,
+        923,
+        36,
+        21
+      ],
+      [
+        1236,
+        903,
+        13,
+        13
+      ],
+      [
+        1093,
+        533,
+        477,
+        557
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (98)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (98).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (98)_defect.png",
+    "bboxes_xywh": [
+      [
+        923,
+        632,
+        23,
+        39
+      ],
+      [
+        905,
+        439,
+        13,
+        16
+      ],
+      [
+        630,
+        393,
+        15,
+        11
+      ],
+      [
+        709,
+        231,
+        27,
+        25
+      ],
+      [
+        636,
+        120,
+        440,
+        142
+      ]
+    ]
+  },
+  {
+    "image_id": "NDM_M1 (99)",
+    "grade": "NDM_M1",
+    "annotation": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\annotations\\NDM_M1\\NDM_M1 (99).json",
+    "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (99)_defect.png",
+    "bboxes_xywh": [
+      [
+        1799,
+        1100,
+        37,
+        53
+      ],
+      [
+        1795,
+        842,
+        95,
+        181
+      ]
+    ]
+  }
+]
