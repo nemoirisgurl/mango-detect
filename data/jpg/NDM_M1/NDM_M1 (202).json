@@ -1,0 +1,36 @@
+{
+  "version": "7.7.0",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "defect",
+      "points": [
+        [
+          706.7885835457253,
+          1097.694557466364
+        ],
+        [
+          706.7885835457253,
+          1114.2234830861987
+        ],
+        [
+          712.5737075126674,
+          1122.4879458961161
+        ],
+        [
+          718.3588314796095,
+          1118.3557144911574
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "polygon",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "NDM_M1 (202).jpg",
+  "imageData": null,
+  "imageHeight": 2394,
+  "imageWidth": 2394
+}
