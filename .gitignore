@@ -1,3 +1,6 @@
 *.json
 
 !defect_manifest.json
+
+data/**/*.jpg
+data/**/*.png
