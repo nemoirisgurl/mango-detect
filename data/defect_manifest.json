@@ -349,7 +349,7 @@
         1750,
         907,
         19,
-        50
+        32
       ],
       [
         1832,
@@ -358,10 +358,10 @@
         16
       ],
       [
-        1897,
-        874,
-        17,
-        24
+        1898,
+        875,
+        16,
+        23
       ],
       [
         962,
@@ -395,9 +395,9 @@
       ],
       [
         909,
-        196,
-        48,
-        17
+        199,
+        20,
+        14
       ],
       [
         886,
@@ -583,7 +583,7 @@
         1763,
         838,
         26,
-        48
+        47
       ],
       [
         1708,
@@ -623,9 +623,9 @@
       ],
       [
         1591,
-        923,
+        925,
         15,
-        27
+        25
       ]
     ]
   },
@@ -652,15 +652,15 @@
         23
       ],
       [
-        837,
+        836,
         192,
-        49,
+        50,
         29
       ],
       [
         838,
         140,
-        48,
+        47,
         26
       ],
       [
@@ -732,8 +732,8 @@
       [
         1144,
         181,
-        41,
-        19
+        53,
+        34
       ],
       [
         1177,
@@ -1072,9 +1072,9 @@
         31
       ],
       [
-        923,
+        924,
         194,
-        79,
+        78,
         37
       ]
     ]
@@ -1265,9 +1265,9 @@
       ],
       [
         982,
-        188,
-        45,
-        16
+        190,
+        44,
+        14
       ],
       [
         1028,
@@ -1327,7 +1327,7 @@
     "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (126)_defect.png",
     "yellow_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (126)_yellow.png",
     "ink_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (126)_ink.png",
-    "brightness_threshold": 16,
+    "brightness_threshold": 17,
     "bboxes_xywh": [
       [
         788,
@@ -1429,7 +1429,7 @@
     "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (129)_defect.png",
     "yellow_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (129)_yellow.png",
     "ink_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (129)_ink.png",
-    "brightness_threshold": 17,
+    "brightness_threshold": 18,
     "bboxes_xywh": [
       [
         1224,
@@ -1465,7 +1465,7 @@
         1596,
         846,
         11,
-        17
+        15
       ],
       [
         1553,
@@ -1480,10 +1480,10 @@
         8
       ],
       [
-        1579,
-        788,
-        22,
-        48
+        1580,
+        789,
+        21,
+        47
       ]
     ]
   },
@@ -1531,7 +1531,7 @@
     "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (131)_defect.png",
     "yellow_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (131)_yellow.png",
     "ink_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (131)_ink.png",
-    "brightness_threshold": 19,
+    "brightness_threshold": 20,
     "bboxes_xywh": [
       [
         1210,
@@ -1561,7 +1561,7 @@
     "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (132)_defect.png",
     "yellow_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (132)_yellow.png",
     "ink_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (132)_ink.png",
-    "brightness_threshold": 19,
+    "brightness_threshold": 20,
     "bboxes_xywh": [
       [
         1379,
@@ -1597,7 +1597,7 @@
         1814,
         823,
         24,
-        41
+        31
       ],
       [
         1901,
@@ -1626,7 +1626,7 @@
       [
         809,
         224,
-        52,
+        53,
         29
       ],
       [
@@ -1834,15 +1834,15 @@
         37
       ],
       [
-        787,
+        790,
         217,
-        40,
-        22
+        37,
+        20
       ],
       [
         844,
         211,
-        19,
+        18,
         11
       ],
       [
@@ -1890,7 +1890,7 @@
     "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (142)_defect.png",
     "yellow_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (142)_yellow.png",
     "ink_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (142)_ink.png",
-    "brightness_threshold": 23,
+    "brightness_threshold": 24,
     "bboxes_xywh": []
   },
   {
@@ -1906,7 +1906,7 @@
       [
         1816,
         1136,
-        31,
+        27,
         8
       ],
       [
@@ -2128,7 +2128,7 @@
       [
         828,
         185,
-        17,
+        20,
         13
       ]
     ]
@@ -2396,8 +2396,8 @@
       [
         837,
         1649,
-        27,
-        25
+        26,
+        24
       ],
       [
         743,
@@ -2580,9 +2580,9 @@
         33
       ],
       [
-        979,
+        980,
         105,
-        41,
+        40,
         48
       ],
       [
@@ -2611,9 +2611,9 @@
       ],
       [
         979,
-        208,
-        24,
-        13
+        209,
+        23,
+        12
       ],
       [
         981,
@@ -2737,9 +2737,9 @@
       ],
       [
         1799,
-        986,
+        987,
         20,
-        21
+        20
       ],
       [
         1856,
@@ -2778,9 +2778,9 @@
         13
       ],
       [
-        986,
+        987,
         194,
-        21,
+        20,
         20
       ],
       [
@@ -3012,6 +3012,12 @@
         17
       ],
       [
+        1715,
+        842,
+        17,
+        19
+      ],
+      [
         1699,
         842,
         13,
@@ -3120,9 +3126,9 @@
         12
       ],
       [
-        842,
+        841,
         104,
-        41,
+        42,
         27
       ],
       [
@@ -3260,8 +3266,8 @@
       [
         1832,
         819,
-        13,
-        23
+        12,
+        22
       ],
       [
         1812,
@@ -3354,16 +3360,16 @@
         33
       ],
       [
+        1682,
+        1006,
+        25,
+        52
+      ],
+      [
         1610,
         1004,
         14,
         20
-      ],
-      [
-        1682,
-        1003,
-        27,
-        55
       ],
       [
         1624,
@@ -3501,7 +3507,7 @@
         1692,
         790,
         21,
-        94
+        75
       ],
       [
         1750,
@@ -3542,7 +3548,7 @@
       [
         806,
         199,
-        24,
+        23,
         10
       ],
       [
@@ -3619,9 +3625,9 @@
       ],
       [
         770,
-        194,
+        193,
         28,
-        19
+        20
       ],
       [
         731,
@@ -3981,7 +3987,7 @@
     "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (186)_defect.png",
     "yellow_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (186)_yellow.png",
     "ink_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (186)_ink.png",
-    "brightness_threshold": 25,
+    "brightness_threshold": 24,
     "bboxes_xywh": [
       [
         1110,
@@ -4011,7 +4017,7 @@
         691,
         76,
         18,
-        25
+        26
       ],
       [
         800,
@@ -4177,9 +4183,9 @@
       ],
       [
         1894,
-        1132,
+        1133,
         36,
-        52
+        51
       ],
       [
         1879,
@@ -4311,7 +4317,7 @@
     "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (193)_defect.png",
     "yellow_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (193)_yellow.png",
     "ink_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (193)_ink.png",
-    "brightness_threshold": 17,
+    "brightness_threshold": 18,
     "bboxes_xywh": [
       [
         901,
@@ -4383,7 +4389,7 @@
     "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (195)_defect.png",
     "yellow_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (195)_yellow.png",
     "ink_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (195)_ink.png",
-    "brightness_threshold": 24,
+    "brightness_threshold": 23,
     "bboxes_xywh": [
       [
         1428,
@@ -4400,7 +4406,7 @@
       [
         1823,
         1107,
-        41,
+        42,
         58
       ],
       [
@@ -4410,16 +4416,22 @@
         39
       ],
       [
+        2013,
+        1085,
+        26,
+        23
+      ],
+      [
         1954,
         1072,
-        39,
+        41,
         22
       ],
       [
         1900,
         1070,
         26,
-        32
+        33
       ],
       [
         1868,
@@ -4429,9 +4441,9 @@
       ],
       [
         1845,
-        1052,
+        1051,
         28,
-        32
+        33
       ],
       [
         1860,
@@ -4455,13 +4467,13 @@
     "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (196)_defect.png",
     "yellow_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (196)_yellow.png",
     "ink_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (196)_ink.png",
-    "brightness_threshold": 23,
+    "brightness_threshold": 24,
     "bboxes_xywh": [
       [
         1400,
         663,
         11,
-        22
+        21
       ],
       [
         1016,
@@ -4478,13 +4490,13 @@
       [
         1157,
         294,
-        18,
+        17,
         17
       ],
       [
-        1107,
+        1109,
         249,
-        59,
+        56,
         40
       ],
       [
@@ -4514,19 +4526,19 @@
       [
         1070,
         181,
-        34,
+        33,
         33
       ],
       [
         1071,
         118,
         23,
-        39
+        38
       ],
       [
-        1085,
+        1086,
         75,
-        20,
+        18,
         26
       ]
     ]
@@ -4550,7 +4562,7 @@
       [
         1788,
         759,
-        33,
+        32,
         47
       ],
       [
@@ -4597,9 +4609,9 @@
       ],
       [
         759,
-        151,
+        153,
         47,
-        51
+        49
       ],
       [
         722,
@@ -4710,9 +4722,9 @@
         12
       ],
       [
-        1135,
+        1136,
         217,
-        48,
+        47,
         34
       ],
       [
@@ -4770,9 +4782,9 @@
         28
       ],
       [
-        1249,
+        1250,
         238,
-        23,
+        22,
         11
       ],
       [
@@ -4833,7 +4845,7 @@
     "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (202)_defect.png",
     "yellow_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (202)_yellow.png",
     "ink_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (202)_ink.png",
-    "brightness_threshold": 16,
+    "brightness_threshold": 17,
     "bboxes_xywh": [
       [
         1006,
@@ -4959,7 +4971,7 @@
         1836,
         989,
         27,
-        63
+        62
       ],
       [
         1120,
@@ -5330,13 +5342,13 @@
       [
         835,
         82,
-        9,
-        19
+        10,
+        20
       ],
       [
         801,
         55,
-        39,
+        40,
         24
       ]
     ]
@@ -5552,8 +5564,8 @@
       [
         1825,
         879,
-        22,
-        55
+        21,
+        52
       ],
       [
         1932,
@@ -5678,19 +5690,25 @@
       [
         878,
         222,
-        56,
+        55,
         24
       ],
       [
-        881,
+        882,
         203,
-        12,
-        14
+        11,
+        13
+      ],
+      [
+        911,
+        199,
+        16,
+        15
       ],
       [
         856,
         155,
-        37,
+        45,
         30
       ],
       [
@@ -5761,9 +5779,9 @@
       ],
       [
         1830,
-        1074,
-        40,
-        62
+        1078,
+        39,
+        57
       ],
       [
         1821,
@@ -5832,10 +5850,10 @@
         7
       ],
       [
-        1069,
-        176,
-        66,
-        41
+        1079,
+        179,
+        43,
+        28
       ],
       [
         1113,
@@ -5913,7 +5931,7 @@
     "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (218)_defect.png",
     "yellow_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (218)_yellow.png",
     "ink_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (218)_ink.png",
-    "brightness_threshold": 20,
+    "brightness_threshold": 21,
     "bboxes_xywh": [
       [
         918,
@@ -6296,8 +6314,8 @@
       [
         1947,
         1049,
-        22,
-        46
+        21,
+        36
       ],
       [
         1927,
@@ -6315,7 +6333,7 @@
         1945,
         990,
         16,
-        38
+        37
       ],
       [
         1899,
@@ -6422,13 +6440,13 @@
       [
         989,
         344,
-        42,
+        40,
         16
       ],
       [
         1046,
         336,
-        38,
+        40,
         22
       ],
       [
@@ -6979,9 +6997,9 @@
       ],
       [
         2216,
-        1180,
+        1181,
         22,
-        14
+        13
       ],
       [
         978,
@@ -7434,6 +7452,12 @@
         42
       ],
       [
+        1181,
+        767,
+        12,
+        19
+      ],
+      [
         1323,
         537,
         31,
@@ -7849,9 +7873,9 @@
       ],
       [
         376,
-        1364,
-        37,
-        92
+        1365,
+        36,
+        91
       ],
       [
         1382,
@@ -8611,9 +8635,9 @@
       ],
       [
         1357,
-        3064,
+        3065,
         23,
-        43
+        42
       ]
     ]
   },
@@ -8828,7 +8852,7 @@
       [
         1784,
         687,
-        29,
+        28,
         33
       ],
       [
@@ -8900,7 +8924,7 @@
       [
         1821,
         1193,
-        25,
+        23,
         30
       ],
       [
@@ -8949,7 +8973,7 @@
     "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (29)_defect.png",
     "yellow_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (29)_yellow.png",
     "ink_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (29)_ink.png",
-    "brightness_threshold": 20,
+    "brightness_threshold": 21,
     "bboxes_xywh": [
       [
         1833,
@@ -8958,10 +8982,10 @@
         21
       ],
       [
-        1792,
-        793,
-        50,
-        61
+        1800,
+        799,
+        41,
+        54
       ],
       [
         1882,
@@ -8973,7 +8997,7 @@
         1932,
         754,
         18,
-        20
+        19
       ]
     ]
   },
@@ -9025,9 +9049,9 @@
     "bboxes_xywh": [
       [
         793,
-        186,
+        187,
         57,
-        51
+        50
       ],
       [
         762,
@@ -9271,9 +9295,9 @@
       ],
       [
         1687,
-        910,
-        16,
-        19
+        911,
+        15,
+        18
       ]
     ]
   },
@@ -9379,9 +9403,9 @@
       ],
       [
         651,
-        199,
+        200,
         49,
-        35
+        34
       ],
       [
         644,
@@ -9411,7 +9435,7 @@
         1738,
         1273,
         30,
-        23
+        22
       ],
       [
         1784,
@@ -9462,12 +9486,6 @@
         7
       ],
       [
-        1240,
-        232,
-        18,
-        9
-      ],
-      [
         1303,
         184,
         18,
@@ -9494,8 +9512,8 @@
       [
         1721,
         690,
-        30,
-        39
+        25,
+        36
       ],
       [
         1732,
@@ -9541,9 +9559,9 @@
       ],
       [
         682,
-        190,
-        47,
-        30
+        193,
+        46,
+        27
       ],
       [
         600,
@@ -9627,7 +9645,7 @@
     "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (49)_defect.png",
     "yellow_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (49)_yellow.png",
     "ink_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (49)_ink.png",
-    "brightness_threshold": 19,
+    "brightness_threshold": 20,
     "bboxes_xywh": [
       [
         1617,
@@ -9675,7 +9693,7 @@
         1630,
         902,
         21,
-        63
+        42
       ],
       [
         1735,
@@ -9831,19 +9849,19 @@
     "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (53)_defect.png",
     "yellow_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (53)_yellow.png",
     "ink_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (53)_ink.png",
-    "brightness_threshold": 17,
+    "brightness_threshold": 18,
     "bboxes_xywh": [
       [
         1767,
         1133,
-        17,
+        16,
         22
       ],
       [
         1767,
-        1082,
+        1083,
         31,
-        48
+        47
       ],
       [
         1773,
@@ -10118,7 +10136,7 @@
       [
         904,
         253,
-        59,
+        48,
         18
       ],
       [
@@ -10179,7 +10197,7 @@
     "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (61)_defect.png",
     "yellow_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (61)_yellow.png",
     "ink_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (61)_ink.png",
-    "brightness_threshold": 16,
+    "brightness_threshold": 17,
     "bboxes_xywh": [
       [
         1554,
@@ -10320,9 +10338,9 @@
         30
       ],
       [
-        967,
+        966,
         222,
-        61,
+        62,
         16
       ],
       [
@@ -10398,10 +10416,10 @@
         39
       ],
       [
-        782,
+        783,
         208,
-        61,
-        18
+        60,
+        17
       ],
       [
         783,
@@ -10794,10 +10812,10 @@
         40
       ],
       [
-        909,
+        908,
         201,
-        40,
-        18
+        41,
+        19
       ],
       [
         913,
@@ -10860,10 +10878,10 @@
         14
       ],
       [
-        1688,
+        1695,
         895,
-        21,
-        79
+        14,
+        66
       ]
     ]
   },
@@ -10945,9 +10963,9 @@
       ],
       [
         1620,
-        682,
+        683,
         22,
-        43
+        42
       ]
     ]
   },
@@ -11108,7 +11126,7 @@
       [
         1046,
         168,
-        31,
+        32,
         22
       ],
       [
@@ -11173,9 +11191,9 @@
       ],
       [
         1101,
-        51,
+        52,
         27,
-        8
+        7
       ]
     ]
   },
@@ -11187,7 +11205,7 @@
     "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (81)_defect.png",
     "yellow_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (81)_yellow.png",
     "ink_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (81)_ink.png",
-    "brightness_threshold": 8,
+    "brightness_threshold": 7,
     "bboxes_xywh": [
       [
         1744,
@@ -11217,7 +11235,7 @@
         1722,
         722,
         40,
-        58
+        57
       ],
       [
         1803,
@@ -11252,7 +11270,7 @@
       [
         725,
         231,
-        55,
+        51,
         38
       ],
       [
@@ -11343,7 +11361,7 @@
     "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (85)_defect.png",
     "yellow_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (85)_yellow.png",
     "ink_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (85)_ink.png",
-    "brightness_threshold": 9,
+    "brightness_threshold": 10,
     "bboxes_xywh": [
       [
         233,
@@ -11359,9 +11377,9 @@
       ],
       [
         1729,
-        724,
-        39,
-        70
+        720,
+        42,
+        74
       ],
       [
         1672,
@@ -11442,9 +11460,9 @@
         41
       ],
       [
-        657,
+        658,
         94,
-        36,
+        35,
         30
       ],
       [
@@ -11697,7 +11715,7 @@
         1771,
         773,
         29,
-        14
+        13
       ],
       [
         1527,
@@ -11724,16 +11742,16 @@
         17
       ],
       [
+        1713,
+        724,
+        34,
+        37
+      ],
+      [
         1856,
         721,
         20,
         14
-      ],
-      [
-        1711,
-        721,
-        36,
-        40
       ],
       [
         1612,
@@ -11761,9 +11779,9 @@
       ],
       [
         779,
-        190,
-        71,
-        33
+        193,
+        64,
+        30
       ],
       [
         730,
@@ -11847,12 +11865,12 @@
     "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (92)_defect.png",
     "yellow_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (92)_yellow.png",
     "ink_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M1\\NDM_M1 (92)_ink.png",
-    "brightness_threshold": 24,
+    "brightness_threshold": 25,
     "bboxes_xywh": [
       [
-        879,
+        880,
         923,
-        16,
+        15,
         20
       ],
       [
@@ -12336,9 +12354,9 @@
         25
       ],
       [
-        298,
+        296,
         919,
-        45,
+        47,
         28
       ],
       [
@@ -12356,7 +12374,7 @@
       [
         1960,
         815,
-        34,
+        33,
         45
       ],
       [
@@ -12369,7 +12387,7 @@
         1990,
         805,
         21,
-        21
+        20
       ],
       [
         1847,
@@ -12462,9 +12480,9 @@
         27
       ],
       [
-        2150,
+        2149,
         1343,
-        18,
+        19,
         17
       ],
       [
@@ -12584,14 +12602,8 @@
       [
         1970,
         925,
-        19,
+        18,
         20
-      ],
-      [
-        2057,
-        920,
-        21,
-        9
       ],
       [
         1919,
@@ -12600,9 +12612,9 @@
         74
       ],
       [
-        2087,
+        2093,
         908,
-        27,
+        21,
         20
       ],
       [
@@ -12613,9 +12625,9 @@
       ],
       [
         1938,
-        870,
+        871,
         34,
-        54
+        53
       ]
     ]
   },
@@ -12710,8 +12722,8 @@
       [
         1886,
         941,
-        14,
-        31
+        13,
+        30
       ],
       [
         1978,
@@ -12753,7 +12765,7 @@
         1747,
         1162,
         63,
-        50
+        49
       ]
     ]
   },
@@ -12951,7 +12963,7 @@
         1908,
         1062,
         24,
-        18
+        17
       ],
       [
         744,
@@ -12974,7 +12986,7 @@
       [
         1729,
         1016,
-        49,
+        48,
         60
       ],
       [
@@ -12986,8 +12998,8 @@
       [
         1715,
         856,
-        37,
-        103
+        40,
+        112
       ]
     ]
   },
@@ -13010,8 +13022,8 @@
       [
         1643,
         767,
-        26,
-        29
+        24,
+        27
       ],
       [
         1678,
@@ -13371,7 +13383,7 @@
         1790,
         723,
         59,
-        61
+        60
       ],
       [
         1874,
@@ -13428,10 +13440,10 @@
         72
       ],
       [
-        2037,
-        1188,
-        16,
-        14
+        2039,
+        1189,
+        14,
+        13
       ],
       [
         218,
@@ -13638,10 +13650,10 @@
         37
       ],
       [
-        1746,
+        1744,
         1041,
-        35,
-        38
+        37,
+        40
       ],
       [
         1741,
@@ -14022,16 +14034,22 @@
         12
       ],
       [
+        2086,
+        1208,
+        26,
+        14
+      ],
+      [
+        2113,
+        1201,
+        97,
+        21
+      ],
+      [
         2012,
         1197,
         22,
         63
-      ],
-      [
-        2074,
-        1186,
-        136,
-        36
       ],
       [
         2038,
@@ -14041,9 +14059,9 @@
       ],
       [
         2038,
-        1094,
-        145,
-        134
+        1095,
+        91,
+        133
       ]
     ]
   },
@@ -14066,8 +14084,8 @@
       [
         1977,
         884,
-        103,
-        121
+        101,
+        120
       ],
       [
         2156,
@@ -14149,9 +14167,9 @@
       ],
       [
         1892,
-        1045,
+        1047,
         38,
-        110
+        108
       ],
       [
         2037,
@@ -14235,7 +14253,7 @@
         1735,
         845,
         24,
-        40
+        39
       ],
       [
         1696,
@@ -14436,10 +14454,10 @@
         21
       ],
       [
-        1749,
-        749,
-        28,
-        25
+        1750,
+        750,
+        27,
+        24
       ],
       [
         1840,
@@ -14486,7 +14504,7 @@
       [
         2056,
         1217,
-        29,
+        16,
         37
       ],
       [
@@ -14631,7 +14649,7 @@
         2125,
         966,
         14,
-        11
+        10
       ],
       [
         2037,
@@ -15546,9 +15564,9 @@
       ],
       [
         1732,
-        1098,
-        13,
-        35
+        1099,
+        11,
+        34
       ],
       [
         848,
@@ -15758,7 +15776,7 @@
         397,
         1538,
         12,
-        52
+        51
       ],
       [
         391,
@@ -15848,7 +15866,7 @@
         300,
         1645,
         21,
-        65
+        64
       ],
       [
         289,
@@ -16553,10 +16571,10 @@
         34
       ],
       [
-        236,
-        1579,
-        32,
-        23
+        237,
+        1580,
+        31,
+        22
       ],
       [
         293,
@@ -16772,7 +16790,7 @@
         345,
         1043,
         52,
-        98
+        100
       ]
     ]
   },
@@ -16811,10 +16829,10 @@
         17
       ],
       [
-        305,
-        1587,
-        12,
-        37
+        308,
+        1604,
+        9,
+        20
       ]
     ]
   },
@@ -16938,9 +16956,9 @@
       ],
       [
         2059,
-        1255,
+        1269,
         42,
-        55
+        41
       ],
       [
         1959,
@@ -17309,10 +17327,10 @@
         13
       ],
       [
-        322,
+        323,
         1268,
-        12,
-        32
+        11,
+        21
       ],
       [
         246,
@@ -17357,9 +17375,9 @@
         14
       ],
       [
-        386,
+        388,
         1558,
-        15,
+        13,
         36
       ],
       [
@@ -17393,9 +17411,9 @@
         41
       ],
       [
-        205,
+        206,
         1332,
-        35,
+        34,
         9
       ],
       [
@@ -17486,7 +17504,7 @@
         402,
         1101,
         40,
-        102
+        98
       ],
       [
         220,
@@ -17726,7 +17744,7 @@
         1844,
         769,
         29,
-        49
+        48
       ]
     ]
   },
@@ -17768,7 +17786,7 @@
     "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M2\\NDM_M2 (184)_defect.png",
     "yellow_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M2\\NDM_M2 (184)_yellow.png",
     "ink_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M2\\NDM_M2 (184)_ink.png",
-    "brightness_threshold": 19,
+    "brightness_threshold": 20,
     "bboxes_xywh": [
       [
         1755,
@@ -17899,7 +17917,7 @@
         1919,
         931,
         16,
-        12
+        11
       ],
       [
         1869,
@@ -17915,9 +17933,9 @@
       ],
       [
         1861,
-        890,
+        891,
         21,
-        10
+        9
       ],
       [
         1913,
@@ -18055,7 +18073,7 @@
     "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M2\\NDM_M2 (24)_defect.png",
     "yellow_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M2\\NDM_M2 (24)_yellow.png",
     "ink_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M2\\NDM_M2 (24)_ink.png",
-    "brightness_threshold": 25,
+    "brightness_threshold": 26,
     "bboxes_xywh": [
       [
         1653,
@@ -18067,7 +18085,7 @@
         1699,
         811,
         30,
-        26
+        23
       ]
     ]
   },
@@ -18210,7 +18228,7 @@
       [
         1792,
         1067,
-        17,
+        12,
         23
       ],
       [
@@ -18330,7 +18348,7 @@
       [
         1798,
         841,
-        108,
+        103,
         253
       ]
     ]
@@ -18469,7 +18487,7 @@
     "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M2\\NDM_M2 (30)_defect.png",
     "yellow_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M2\\NDM_M2 (30)_yellow.png",
     "ink_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M2\\NDM_M2 (30)_ink.png",
-    "brightness_threshold": 21,
+    "brightness_threshold": 22,
     "bboxes_xywh": [
       [
         1094,
@@ -18509,9 +18527,9 @@
       ],
       [
         1749,
-        818,
+        819,
         12,
-        20
+        19
       ]
     ]
   },
@@ -18528,7 +18546,7 @@
       [
         1670,
         1011,
-        16,
+        15,
         49
       ],
       [
@@ -18659,9 +18677,9 @@
       ],
       [
         1851,
-        1052,
+        1051,
         16,
-        13
+        14
       ],
       [
         1755,
@@ -18721,13 +18739,13 @@
     "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M2\\NDM_M2 (35)_defect.png",
     "yellow_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M2\\NDM_M2 (35)_yellow.png",
     "ink_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M2\\NDM_M2 (35)_ink.png",
-    "brightness_threshold": 20,
+    "brightness_threshold": 21,
     "bboxes_xywh": [
       [
         1765,
         1155,
-        31,
-        18
+        20,
+        17
       ],
       [
         1711,
@@ -18787,7 +18805,7 @@
         1644,
         666,
         38,
-        61
+        60
       ],
       [
         1729,
@@ -18839,9 +18857,9 @@
       ],
       [
         1817,
-        1075,
+        1077,
         29,
-        45
+        43
       ]
     ]
   },
@@ -18877,13 +18895,13 @@
         1860,
         912,
         14,
-        14
+        13
       ],
       [
         1924,
         841,
         26,
-        12
+        10
       ],
       [
         2014,
@@ -18961,7 +18979,7 @@
     "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M2\\NDM_M2 (4)_defect.png",
     "yellow_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M2\\NDM_M2 (4)_yellow.png",
     "ink_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M2\\NDM_M2 (4)_ink.png",
-    "brightness_threshold": 14,
+    "brightness_threshold": 15,
     "bboxes_xywh": [
       [
         1322,
@@ -19009,7 +19027,7 @@
         1845,
         1002,
         32,
-        44
+        42
       ],
       [
         2001,
@@ -19056,7 +19074,7 @@
       [
         1719,
         975,
-        39,
+        38,
         98
       ],
       [
@@ -19163,9 +19181,9 @@
       ],
       [
         1899,
-        1078,
-        19,
-        11
+        1079,
+        18,
+        10
       ],
       [
         1841,
@@ -19372,9 +19390,9 @@
         67
       ],
       [
-        1847,
+        1862,
         880,
-        53,
+        38,
         17
       ],
       [
@@ -19447,19 +19465,19 @@
         1917,
         1204,
         23,
-        48
-      ],
-      [
-        1933,
-        1179,
-        16,
-        23
+        47
       ],
       [
         1853,
         1179,
         50,
         46
+      ],
+      [
+        1933,
+        1178,
+        16,
+        24
       ],
       [
         1869,
@@ -19543,7 +19561,7 @@
         1947,
         926,
         11,
-        19
+        18
       ],
       [
         1367,
@@ -19632,7 +19650,7 @@
       [
         1905,
         1121,
-        22,
+        26,
         55
       ]
     ]
@@ -19717,7 +19735,7 @@
         1973,
         965,
         38,
-        64
+        62
       ],
       [
         1962,
@@ -19818,8 +19836,8 @@
       [
         1759,
         1037,
-        30,
-        30
+        29,
+        28
       ],
       [
         1788,
@@ -19963,7 +19981,7 @@
     "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M2\\NDM_M2 (56)_defect.png",
     "yellow_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M2\\NDM_M2 (56)_yellow.png",
     "ink_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M2\\NDM_M2 (56)_ink.png",
-    "brightness_threshold": 22,
+    "brightness_threshold": 23,
     "bboxes_xywh": [
       [
         1737,
@@ -19972,10 +19990,10 @@
         52
       ],
       [
-        1813,
-        1038,
-        12,
-        32
+        1812,
+        1039,
+        13,
+        52
       ],
       [
         1907,
@@ -19985,9 +20003,9 @@
       ],
       [
         1809,
-        1004,
+        1007,
         14,
-        30
+        25
       ]
     ]
   },
@@ -20170,16 +20188,10 @@
         48
       ],
       [
-        1665,
-        868,
-        18,
-        13
-      ],
-      [
         1760,
-        828,
+        829,
         23,
-        16
+        15
       ],
       [
         1339,
@@ -20478,14 +20490,14 @@
       [
         1672,
         806,
-        36,
+        35,
         97
       ],
       [
-        1668,
-        746,
-        33,
-        41
+        1677,
+        747,
+        24,
+        40
       ],
       [
         1733,
@@ -20710,10 +20722,10 @@
     "brightness_threshold": 20,
     "bboxes_xywh": [
       [
-        1783,
-        796,
-        21,
-        50
+        1784,
+        816,
+        20,
+        30
       ],
       [
         1804,
@@ -20728,10 +20740,10 @@
         13
       ],
       [
-        1745,
-        727,
-        42,
-        45
+        1744,
+        726,
+        43,
+        46
       ],
       [
         1832,
@@ -20953,13 +20965,13 @@
     "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M2\\NDM_M2 (74)_defect.png",
     "yellow_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M2\\NDM_M2 (74)_yellow.png",
     "ink_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M2\\NDM_M2 (74)_ink.png",
-    "brightness_threshold": 11,
+    "brightness_threshold": 12,
     "bboxes_xywh": [
       [
-        1858,
+        1857,
         1033,
-        21,
-        12
+        22,
+        13
       ],
       [
         1874,
@@ -21048,14 +21060,14 @@
       [
         1900,
         905,
-        21,
-        39
+        11,
+        25
       ],
       [
         1889,
         859,
-        19,
-        40
+        15,
+        33
       ],
       [
         1945,
@@ -21064,10 +21076,10 @@
         26
       ],
       [
-        1875,
-        811,
-        33,
-        43
+        1877,
+        812,
+        31,
+        42
       ],
       [
         2001,
@@ -21263,15 +21275,15 @@
       ],
       [
         1890,
-        1067,
+        1068,
         18,
-        36
+        35
       ],
       [
-        1825,
+        1826,
         1042,
-        28,
-        89
+        27,
+        87
       ],
       [
         1774,
@@ -21300,8 +21312,8 @@
       [
         1824,
         860,
-        25,
-        18
+        24,
+        17
       ]
     ]
   },
@@ -21403,12 +21415,12 @@
     "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M2\\NDM_M2 (82)_defect.png",
     "yellow_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M2\\NDM_M2 (82)_yellow.png",
     "ink_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M2\\NDM_M2 (82)_ink.png",
-    "brightness_threshold": 20,
+    "brightness_threshold": 21,
     "bboxes_xywh": [
       [
-        1092,
+        1094,
         1402,
-        44,
+        42,
         12
       ],
       [
@@ -21418,9 +21430,9 @@
         21
       ],
       [
-        1427,
+        1428,
         1186,
-        15,
+        14,
         13
       ],
       [
@@ -21437,9 +21449,9 @@
       ],
       [
         1778,
-        880,
-        40,
-        85
+        881,
+        42,
+        66
       ],
       [
         1766,
@@ -21450,7 +21462,7 @@
       [
         1737,
         818,
-        19,
+        17,
         21
       ],
       [
@@ -21461,9 +21473,9 @@
       ],
       [
         1776,
-        813,
+        814,
         38,
-        52
+        51
       ],
       [
         1761,
@@ -21475,7 +21487,7 @@
         1861,
         803,
         31,
-        36
+        35
       ],
       [
         1646,
@@ -21523,7 +21535,7 @@
         1853,
         1113,
         54,
-        72
+        70
       ],
       [
         738,
@@ -21631,7 +21643,7 @@
         1770,
         866,
         32,
-        72
+        71
       ],
       [
         1830,
@@ -21832,9 +21844,9 @@
         21
       ],
       [
-        2026,
+        2027,
         1299,
-        35,
+        34,
         16
       ],
       [
@@ -21863,15 +21875,15 @@
       ],
       [
         2009,
-        1262,
+        1263,
         22,
-        10
+        9
       ],
       [
         1948,
-        1247,
+        1248,
         12,
-        15
+        14
       ],
       [
         1898,
@@ -21937,7 +21949,7 @@
         1956,
         1071,
         19,
-        23
+        27
       ],
       [
         2166,
@@ -21979,7 +21991,7 @@
         1964,
         1277,
         19,
-        18
+        17
       ],
       [
         1885,
@@ -22003,7 +22015,7 @@
         1807,
         1189,
         44,
-        65
+        63
       ],
       [
         1768,
@@ -22021,7 +22033,7 @@
     "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M2\\NDM_M2 (92)_defect.png",
     "yellow_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M2\\NDM_M2 (92)_yellow.png",
     "ink_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M2\\NDM_M2 (92)_ink.png",
-    "brightness_threshold": 20,
+    "brightness_threshold": 21,
     "bboxes_xywh": [
       [
         1703,
@@ -22036,12 +22048,6 @@
         24
       ],
       [
-        1691,
-        883,
-        20,
-        48
-      ],
-      [
         1722,
         850,
         70,
@@ -22054,12 +22060,6 @@
         16
       ],
       [
-        1781,
-        824,
-        21,
-        14
-      ],
-      [
         1709,
         821,
         32,
@@ -22067,15 +22067,15 @@
       ],
       [
         1839,
-        809,
+        810,
         18,
-        27
+        25
       ],
       [
         1861,
-        781,
+        782,
         22,
-        17
+        16
       ]
     ]
   },
@@ -22117,7 +22117,7 @@
         2174,
         1327,
         22,
-        30
+        29
       ],
       [
         1931,
@@ -22126,16 +22126,22 @@
         18
       ],
       [
+        2042,
+        1282,
+        18,
+        15
+      ],
+      [
         2095,
         1276,
         25,
         21
       ],
       [
-        1957,
+        1962,
         1163,
-        78,
-        150
+        73,
+        132
       ],
       [
         1997,
@@ -22157,15 +22163,15 @@
     "bboxes_xywh": [
       [
         1979,
-        958,
+        959,
         39,
-        44
+        43
       ],
       [
-        1997,
-        947,
-        13,
-        18
+        1996,
+        946,
+        14,
+        19
       ],
       [
         2058,
@@ -22176,7 +22182,7 @@
       [
         1911,
         882,
-        33,
+        34,
         39
       ],
       [
@@ -22291,7 +22297,7 @@
         2004,
         958,
         33,
-        14
+        13
       ],
       [
         253,
@@ -22329,6 +22335,12 @@
     "ink_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M2\\NDM_M2 (97)_ink.png",
     "brightness_threshold": 16,
     "bboxes_xywh": [
+      [
+        1760,
+        1204,
+        24,
+        22
+      ],
       [
         1871,
         1178,
@@ -22396,9 +22408,9 @@
         19
       ],
       [
-        1667,
+        1670,
         1148,
-        54,
+        51,
         43
       ],
       [
@@ -22559,9 +22571,9 @@
     "bboxes_xywh": [
       [
         242,
-        1224,
+        1236,
         22,
-        86
+        74
       ],
       [
         151,
@@ -22588,9 +22600,9 @@
         33
       ],
       [
-        1222,
+        1235,
         2209,
-        89,
+        76,
         19
       ]
     ]
@@ -22662,7 +22674,7 @@
       [
         1319,
         2516,
-        27,
+        24,
         17
       ],
       [
@@ -23086,10 +23098,10 @@
     "brightness_threshold": 8,
     "bboxes_xywh": [
       [
-        756,
-        1769,
-        27,
-        43
+        757,
+        1770,
+        26,
+        42
       ]
     ]
   },
@@ -23104,9 +23116,9 @@
     "brightness_threshold": 8,
     "bboxes_xywh": [
       [
-        1769,
-        2770,
-        42,
+        1767,
+        2771,
+        45,
         27
       ]
     ]
@@ -23263,7 +23275,7 @@
         1938,
         916,
         34,
-        57
+        56
       ],
       [
         1910,
@@ -23281,13 +23293,19 @@
     "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M3\\NDM_M3 (12)_defect.png",
     "yellow_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M3\\NDM_M3 (12)_yellow.png",
     "ink_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M3\\NDM_M3 (12)_ink.png",
-    "brightness_threshold": 21,
+    "brightness_threshold": 22,
     "bboxes_xywh": [
       [
         1784,
         1003,
-        15,
-        46
+        9,
+        38
+      ],
+      [
+        1794,
+        967,
+        20,
+        14
       ],
       [
         1877,
@@ -23305,13 +23323,13 @@
         1986,
         929,
         18,
-        12
+        11
       ],
       [
-        1782,
-        902,
-        19,
-        34
+        1783,
+        903,
+        18,
+        33
       ]
     ]
   },
@@ -23323,30 +23341,30 @@
     "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M3\\NDM_M3 (13)_defect.png",
     "yellow_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M3\\NDM_M3 (13)_yellow.png",
     "ink_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M3\\NDM_M3 (13)_ink.png",
-    "brightness_threshold": 22,
+    "brightness_threshold": 21,
     "bboxes_xywh": [
       [
         1007,
-        278,
-        43,
-        15
+        285,
+        29,
+        8
       ],
       [
         901,
         276,
-        34,
+        35,
         19
       ],
       [
         967,
         264,
-        14,
+        12,
         18
       ],
       [
         942,
         257,
-        15,
+        16,
         18
       ],
       [
@@ -23362,9 +23380,9 @@
         13
       ],
       [
-        929,
+        930,
         77,
-        11,
+        10,
         13
       ]
     ]
@@ -23377,31 +23395,31 @@
     "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M3\\NDM_M3 (14)_defect.png",
     "yellow_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M3\\NDM_M3 (14)_yellow.png",
     "ink_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M3\\NDM_M3 (14)_ink.png",
-    "brightness_threshold": 21,
+    "brightness_threshold": 22,
     "bboxes_xywh": [
       [
         1476,
         1082,
-        114,
+        113,
         31
       ],
       [
         1801,
-        1052,
+        1053,
         60,
-        49
+        48
+      ],
+      [
+        1719,
+        1049,
+        28,
+        54
       ],
       [
         1397,
         1045,
         12,
         17
-      ],
-      [
-        1719,
-        1042,
-        28,
-        61
       ],
       [
         1732,
@@ -23430,14 +23448,8 @@
       [
         980,
         885,
-        31,
+        29,
         25
-      ],
-      [
-        940,
-        877,
-        22,
-        11
       ],
       [
         890,
@@ -23464,15 +23476,15 @@
         23
       ],
       [
-        440,
+        441,
         703,
-        37,
+        36,
         26
       ],
       [
-        525,
+        530,
         695,
-        18,
+        13,
         12
       ]
     ]
@@ -23584,9 +23596,9 @@
         28
       ],
       [
-        1052,
+        1053,
         66,
-        49,
+        48,
         60
       ]
     ]
@@ -23677,7 +23689,7 @@
         1702,
         1062,
         12,
-        16
+        15
       ],
       [
         1858,
@@ -23700,7 +23712,7 @@
       [
         1704,
         974,
-        29,
+        28,
         43
       ],
       [
@@ -23719,7 +23731,7 @@
     "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M3\\NDM_M3 (19)_defect.png",
     "yellow_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M3\\NDM_M3 (19)_yellow.png",
     "ink_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M3\\NDM_M3 (19)_ink.png",
-    "brightness_threshold": 14,
+    "brightness_threshold": 15,
     "bboxes_xywh": [
       [
         1332,
@@ -23736,7 +23748,7 @@
       [
         1062,
         243,
-        16,
+        14,
         11
       ],
       [
@@ -23747,9 +23759,9 @@
       ],
       [
         975,
-        225,
+        226,
         42,
-        29
+        28
       ],
       [
         1019,
@@ -23833,13 +23845,13 @@
     "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M3\\NDM_M3 (20)_defect.png",
     "yellow_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M3\\NDM_M3 (20)_yellow.png",
     "ink_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M3\\NDM_M3 (20)_ink.png",
-    "brightness_threshold": 19,
+    "brightness_threshold": 20,
     "bboxes_xywh": [
       [
         83,
-        1027,
+        1026,
         11,
-        28
+        29
       ],
       [
         1680,
@@ -23875,13 +23887,13 @@
     "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M3\\NDM_M3 (21)_defect.png",
     "yellow_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M3\\NDM_M3 (21)_yellow.png",
     "ink_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M3\\NDM_M3 (21)_ink.png",
-    "brightness_threshold": 19,
+    "brightness_threshold": 20,
     "bboxes_xywh": [
       [
-        1038,
+        1031,
         1815,
-        17,
-        10
+        24,
+        11
       ],
       [
         875,
@@ -23941,7 +23953,7 @@
         1666,
         1228,
         23,
-        16
+        15
       ],
       [
         1777,
@@ -23950,10 +23962,10 @@
         13
       ],
       [
-        1697,
+        1698,
         1207,
-        20,
-        26
+        19,
+        25
       ],
       [
         1623,
@@ -23964,7 +23976,7 @@
       [
         1669,
         1179,
-        41,
+        42,
         42
       ],
       [
@@ -24042,7 +24054,7 @@
       [
         1224,
         279,
-        19,
+        17,
         29
       ],
       [
@@ -24060,8 +24072,8 @@
       [
         1208,
         252,
-        25,
-        20
+        24,
+        19
       ],
       [
         1047,
@@ -24250,12 +24262,6 @@
         20
       ],
       [
-        1853,
-        1059,
-        11,
-        15
-      ],
-      [
         1824,
         1041,
         15,
@@ -24352,10 +24358,10 @@
         18
       ],
       [
-        1060,
-        230,
-        19,
-        10
+        1061,
+        231,
+        18,
+        9
       ],
       [
         1075,
@@ -24409,7 +24415,7 @@
         1832,
         926,
         21,
-        15
+        14
       ],
       [
         1865,
@@ -24528,7 +24534,7 @@
       [
         925,
         195,
-        16,
+        15,
         26
       ],
       [
@@ -24659,9 +24665,9 @@
       ],
       [
         1778,
-        1091,
-        33,
-        46
+        1102,
+        27,
+        35
       ],
       [
         1764,
@@ -24715,7 +24721,7 @@
     "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M3\\NDM_M3 (31)_defect.png",
     "yellow_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M3\\NDM_M3 (31)_yellow.png",
     "ink_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M3\\NDM_M3 (31)_ink.png",
-    "brightness_threshold": 26,
+    "brightness_threshold": 27,
     "bboxes_xywh": [
       [
         1326,
@@ -24750,7 +24756,7 @@
       [
         1189,
         388,
-        22,
+        20,
         43
       ],
       [
@@ -24780,7 +24786,7 @@
       [
         904,
         284,
-        35,
+        34,
         27
       ],
       [
@@ -24798,7 +24804,7 @@
       [
         1102,
         225,
-        38,
+        36,
         26
       ],
       [
@@ -24810,7 +24816,7 @@
       [
         897,
         216,
-        26,
+        25,
         14
       ],
       [
@@ -24886,10 +24892,10 @@
         19
       ],
       [
-        1689,
-        812,
-        14,
-        35
+        1690,
+        831,
+        11,
+        16
       ],
       [
         1586,
@@ -25019,9 +25025,9 @@
       ],
       [
         812,
-        122,
+        124,
         36,
-        14
+        12
       ]
     ]
   },
@@ -25327,7 +25333,7 @@
         1902,
         891,
         12,
-        19
+        22
       ],
       [
         1900,
@@ -25420,12 +25426,6 @@
     "brightness_threshold": 17,
     "bboxes_xywh": [
       [
-        1038,
-        1812,
-        17,
-        13
-      ],
-      [
         908,
         239,
         55,
@@ -25434,7 +25434,7 @@
       [
         710,
         221,
-        56,
+        55,
         48
       ],
       [
@@ -25656,8 +25656,8 @@
       [
         1686,
         780,
-        38,
-        55
+        42,
+        56
       ],
       [
         1765,
@@ -25708,10 +25708,10 @@
         11
       ],
       [
-        781,
+        780,
         233,
-        53,
-        37
+        54,
+        38
       ],
       [
         773,
@@ -25824,7 +25824,7 @@
       [
         1825,
         819,
-        26,
+        24,
         22
       ],
       [
@@ -25925,9 +25925,9 @@
       ],
       [
         819,
-        232,
-        24,
-        27
+        234,
+        23,
+        25
       ],
       [
         786,
@@ -25982,6 +25982,12 @@
         218,
         31,
         19
+      ],
+      [
+        895,
+        214,
+        44,
+        21
       ],
       [
         787,
@@ -26110,10 +26116,10 @@
         63
       ],
       [
-        1722,
-        782,
-        44,
-        51
+        1723,
+        783,
+        43,
+        50
       ]
     ]
   },
@@ -26146,10 +26152,10 @@
         21
       ],
       [
-        782,
+        783,
         227,
-        52,
-        44
+        51,
+        43
       ]
     ]
   },
@@ -26338,9 +26344,9 @@
         15
       ],
       [
-        1061,
+        1063,
         259,
-        21,
+        19,
         11
       ],
       [
@@ -26716,9 +26722,9 @@
         7
       ],
       [
-        788,
+        789,
         217,
-        20,
+        19,
         20
       ],
       [
@@ -26796,7 +26802,7 @@
       [
         1945,
         1036,
-        18,
+        17,
         9
       ],
       [
@@ -26886,7 +26892,7 @@
       [
         1055,
         149,
-        13,
+        14,
         26
       ],
       [
@@ -26897,9 +26903,9 @@
       ],
       [
         1035,
-        66,
+        67,
         9,
-        18
+        17
       ],
       [
         998,
@@ -26927,15 +26933,15 @@
       ],
       [
         1710,
-        1017,
-        36,
-        48
+        1029,
+        29,
+        36
       ],
       [
         1714,
-        956,
-        41,
-        62
+        970,
+        35,
+        48
       ],
       [
         1702,
@@ -26998,9 +27004,9 @@
         40
       ],
       [
-        1016,
+        1023,
         279,
-        49,
+        42,
         34
       ]
     ]
@@ -27268,10 +27274,10 @@
         23
       ],
       [
-        1856,
-        858,
-        27,
-        38
+        1857,
+        859,
+        26,
+        36
       ],
       [
         2016,
@@ -27388,10 +27394,10 @@
         9
       ],
       [
-        858,
+        861,
         320,
-        39,
-        22
+        37,
+        19
       ],
       [
         1001,
@@ -27472,9 +27478,9 @@
         26
       ],
       [
-        1218,
+        1217,
         96,
-        21,
+        22,
         23
       ]
     ]
@@ -27660,7 +27666,7 @@
       [
         886,
         266,
-        71,
+        67,
         37
       ]
     ]
@@ -28080,7 +28086,7 @@
       [
         1956,
         1184,
-        13,
+        12,
         30
       ],
       [
@@ -28273,7 +28279,7 @@
         1182,
         212,
         15,
-        14
+        13
       ],
       [
         1188,
@@ -28309,7 +28315,7 @@
     "defect_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M3\\NDM_M3 (8)_defect.png",
     "yellow_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M3\\NDM_M3 (8)_yellow.png",
     "ink_mask": "c:\\Users\\noppa\\OneDrive\\Desktop\\mango\\data\\defect_masks\\NDM_M3\\NDM_M3 (8)_ink.png",
-    "brightness_threshold": 18,
+    "brightness_threshold": 17,
     "bboxes_xywh": [
       [
         1810,
@@ -28381,7 +28387,7 @@
         1969,
         980,
         19,
-        15
+        16
       ],
       [
         2035,
@@ -28403,21 +28409,21 @@
       ],
       [
         2025,
-        942,
+        943,
         18,
-        17
+        16
       ],
       [
         2052,
-        940,
-        22,
-        14
+        941,
+        20,
+        13
       ],
       [
         1891,
         938,
         26,
-        65
+        63
       ],
       [
         721,
@@ -28481,15 +28487,15 @@
       ],
       [
         989,
-        323,
-        87,
-        40
+        325,
+        83,
+        38
       ],
       [
         938,
-        315,
-        66,
-        27
+        316,
+        60,
+        26
       ],
       [
         980,
@@ -28502,12 +28508,6 @@
         206,
         14,
         22
-      ],
-      [
-        942,
-        190,
-        17,
-        17
       ],
       [
         970,
@@ -28526,12 +28526,6 @@
         160,
         20,
         23
-      ],
-      [
-        955,
-        96,
-        6,
-        22
       ]
     ]
   },
@@ -28644,8 +28638,8 @@
       [
         986,
         227,
-        71,
-        22
+        70,
+        21
       ],
       [
         968,
@@ -28768,9 +28762,9 @@
         28
       ],
       [
-        894,
+        895,
         187,
-        26,
+        25,
         15
       ],
       [
@@ -28825,7 +28819,7 @@
         2123,
         1208,
         153,
-        103
+        88
       ],
       [
         2300,
@@ -29022,8 +29016,8 @@
       [
         1266,
         396,
-        39,
-        18
+        37,
+        17
       ],
       [
         1232,
@@ -29034,8 +29028,8 @@
       [
         1223,
         280,
-        87,
-        70
+        85,
+        65
       ],
       [
         1199,
@@ -29152,12 +29146,6 @@
         7
       ],
       [
-        2013,
-        1017,
-        12,
-        9
-      ],
-      [
         2355,
         1012,
         14,
@@ -29216,12 +29204,6 @@
         496,
         51,
         24
-      ],
-      [
-        994,
-        442,
-        17,
-        14
       ],
       [
         1032,
@@ -29290,10 +29272,10 @@
     "brightness_threshold": 17,
     "bboxes_xywh": [
       [
-        769,
-        215,
-        53,
-        38
+        770,
+        216,
+        52,
+        37
       ],
       [
         832,
@@ -29698,9 +29680,9 @@
         18
       ],
       [
-        1164,
+        1165,
         2556,
-        47,
+        46,
         28
       ],
       [
